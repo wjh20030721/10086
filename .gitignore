@@ -1,0 +1,30 @@
+# Ignore dataset directory (do not upload datasets)
+Dataset/
+
+# Ignore compressed archives and large bundles
+*.tar.gz
+*.zip
+
+# Ignore model snapshot files
+*.safetensors
+
+# Python cache and environment
+__pycache__/
+*.py[cod]
+*.so
+venv/
+env/
+.env
+
+# VSCode / IDE
+.vscode/
+.idea/
+
+# Memory/index or other large indices
+
+
+# Results and temporary files
+*.log
+*.tmp
+
+# keep README, code and configs tracked

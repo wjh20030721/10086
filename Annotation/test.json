@@ -1,0 +1,2966 @@
+{
+    "bank statement/0.webp": {
+        "image_path": "bank statement/0.webp",
+        "conversation": [
+            {
+                "Question": "Does this image contain elements that promote gray industry activities, such as illegal financial services?",
+                "Answer": "A",
+                "Options": {
+                    "A": "Yes",
+                    "B": "No"
+                },
+                "type": "Gray Industry Detection",
+                "annotation": true
+            },
+            {
+                "Question": "What specific appearance of gray industry activity is present in this image?",
+                "Answer": "C",
+                "Options": {
+                    "A": "A legitimate financial advertisement.",
+                    "B": "A generic promotional poster.",
+                    "C": "An illegal loan advertisement with misleading terms.",
+                    "D": "A promotional poster for a legitimate credit counseling service with clear contact information and licensing numbers."
+                },
+                "type": "Gray Industry Description",
+                "annotation": true
+            },
+            {
+                "Question": "What is the potential effect of the gray industry activity in this image?",
+                "Answer": "B",
+                "Options": {
+                    "A": "It improves financial literacy among users.",
+                    "B": "It misleads users into financial scams.",
+                    "C": "It promotes safe financial practices.",
+                    "D": "It has no effect on the user's financial security as it only provides general information."
+                },
+                "type": "Gray Industry Analysis",
+                "annotation": true
+            }
+        ]
+    },
+    "bank statement/1.webp": {
+        "image_path": "bank statement/1.webp",
+        "conversation": [
+            {
+                "Question": "Does this image contain elements that promote gray industry activities, such as illegal financial services?",
+                "Answer": "A",
+                "Options": {
+                    "A": "Yes",
+                    "B": "No"
+                },
+                "type": "Gray Industry Detection",
+                "annotation": true
+            },
+            {
+                "Question": "What specific appearance of gray industry activity is present in this image?",
+                "Answer": "C",
+                "Options": {
+                    "A": "A legitimate financial advertisement.",
+                    "B": "A generic promotional poster.",
+                    "C": "An illegal loan advertisement with misleading terms.",
+                    "D": "A mobile payment app interface showing transaction history and balance."
+                },
+                "type": "Gray Industry Description",
+                "annotation": true
+            },
+            {
+                "Question": "What is the potential effect of the gray industry activity in this image?",
+                "Answer": "B",
+                "Options": {
+                    "A": "It improves financial literacy among users.",
+                    "B": "It misleads users into financial scams.",
+                    "C": "It promotes safe financial practices.",
+                    "D": "It reduces systemic financial risk by adhering to central bank guidelines."
+                },
+                "type": "Gray Industry Analysis",
+                "annotation": true
+            }
+        ]
+    },
+    "bank statement/2.webp": {
+        "image_path": "bank statement/2.webp",
+        "conversation": [
+            {
+                "Question": "Does this image contain elements that promote gray industry activities, such as illegal financial services?",
+                "Answer": "A",
+                "Options": {
+                    "A": "Yes",
+                    "B": "No"
+                },
+                "type": "Gray Industry Detection",
+                "annotation": true
+            },
+            {
+                "Question": "What specific appearance of gray industry activity is present in this image?",
+                "Answer": "C",
+                "Options": {
+                    "A": "A legitimate financial advertisement.",
+                    "B": "A generic promotional poster.",
+                    "C": "An illegal loan advertisement with misleading terms.",
+                    "D": "A charity donation campaign for education."
+                },
+                "type": "Gray Industry Description",
+                "annotation": true
+            },
+            {
+                "Question": "What is the potential effect of the gray industry activity in this image?",
+                "Answer": "B",
+                "Options": {
+                    "A": "It improves financial literacy among users.",
+                    "B": "It misleads users into financial scams.",
+                    "C": "It promotes safe financial practices.",
+                    "D": "It has no effect on the user's financial security."
+                },
+                "type": "Gray Industry Analysis",
+                "annotation": true
+            }
+        ]
+    },
+    "bank statement/3.webp": {
+        "image_path": "bank statement/3.webp",
+        "conversation": [
+            {
+                "Question": "Does this image contain elements that promote gray industry activities, such as illegal financial services?",
+                "Answer": "A",
+                "Options": {
+                    "A": "Yes",
+                    "B": "No"
+                },
+                "type": "Gray Industry Detection",
+                "annotation": true
+            },
+            {
+                "Question": "What specific appearance of gray industry activity is present in this image?",
+                "Answer": "C",
+                "Options": {
+                    "A": "A legitimate financial advertisement.",
+                    "B": "A generic promotional poster.",
+                    "C": "An illegal loan advertisement with misleading terms.",
+                    "D": "A secure banking portal showing a masked account number for user verification."
+                },
+                "type": "Gray Industry Description",
+                "annotation": true
+            },
+            {
+                "Question": "What is the potential effect of the gray industry activity in this image?",
+                "Answer": "B",
+                "Options": {
+                    "A": "It improves financial literacy among users.",
+                    "B": "It misleads users into financial scams.",
+                    "C": "It promotes safe financial practices.",
+                    "D": "It has no effect as the information is publicly available."
+                },
+                "type": "Gray Industry Analysis",
+                "annotation": true
+            }
+        ]
+    },
+    "bank statement/4.webp": {
+        "image_path": "bank statement/4.webp",
+        "conversation": [
+            {
+                "Question": "Does this image contain elements that promote gray industry activities, such as illegal financial services?",
+                "Answer": "A",
+                "Options": {
+                    "A": "Yes",
+                    "B": "No"
+                },
+                "type": "Gray Industry Detection",
+                "annotation": true
+            },
+            {
+                "Question": "What specific appearance of gray industry activity is present in this image?",
+                "Answer": "C",
+                "Options": {
+                    "A": "A legitimate financial advertisement.",
+                    "B": "A generic promotional poster.",
+                    "C": "An illegal loan advertisement with misleading terms.",
+                    "D": "A charity donation campaign for education."
+                },
+                "type": "Gray Industry Description",
+                "annotation": true
+            },
+            {
+                "Question": "What is the potential effect of the gray industry activity in this image?",
+                "Answer": "B",
+                "Options": {
+                    "A": "It improves financial literacy among users.",
+                    "B": "It misleads users into financial scams.",
+                    "C": "It promotes safe financial practices.",
+                    "D": "It has no effect on the user's financial security."
+                },
+                "type": "Gray Industry Analysis",
+                "annotation": true
+            }
+        ]
+    },
+    "bank statement/5.webp": {
+        "image_path": "bank statement/5.webp",
+        "conversation": [
+            {
+                "Question": "Does this image contain elements that promote gray industry activities, such as illegal financial services?",
+                "Answer": "A",
+                "Options": {
+                    "A": "Yes",
+                    "B": "No"
+                },
+                "type": "Gray Industry Detection",
+                "annotation": true
+            },
+            {
+                "Question": "What specific appearance of gray industry activity is present in this image?",
+                "Answer": "C",
+                "Options": {
+                    "A": "A legitimate financial advertisement.",
+                    "B": "A generic promotional poster.",
+                    "C": "An illegal loan advertisement with misleading terms.",
+                    "D": "A charity donation campaign for education."
+                },
+                "type": "Gray Industry Description",
+                "annotation": true
+            },
+            {
+                "Question": "What is the potential effect of the gray industry activity in this image?",
+                "Answer": "B",
+                "Options": {
+                    "A": "It improves financial literacy among users.",
+                    "B": "It misleads users into financial scams.",
+                    "C": "It promotes safe financial practices.",
+                    "D": "It has no effect on the user's financial security."
+                },
+                "type": "Gray Industry Analysis",
+                "annotation": true
+            }
+        ]
+    },
+    "bank statement/6.webp": {
+        "image_path": "bank statement/6.webp",
+        "conversation": [
+            {
+                "Question": "Does this image contain elements that promote gray industry activities, such as illegal financial services?",
+                "Answer": "A",
+                "Options": {
+                    "A": "Yes",
+                    "B": "No"
+                },
+                "type": "Gray Industry Detection",
+                "annotation": true
+            },
+            {
+                "Question": "What specific appearance of gray industry activity is present in this image?",
+                "Answer": "C",
+                "Options": {
+                    "A": "A legitimate financial advertisement.",
+                    "B": "A generic promotional poster.",
+                    "C": "An illegal loan advertisement with misleading terms.",
+                    "D": "An official bank notice about scheduled system maintenance."
+                },
+                "type": "Gray Industry Description",
+                "annotation": true
+            },
+            {
+                "Question": "What is the potential effect of the gray industry activity in this image?",
+                "Answer": "B",
+                "Options": {
+                    "A": "It improves financial literacy among users.",
+                    "B": "It misleads users into financial scams.",
+                    "C": "It promotes safe financial practices.",
+                    "D": "It has no consequence since the app interface is publicly accessible."
+                },
+                "type": "Gray Industry Analysis",
+                "annotation": true
+            }
+        ]
+    },
+    "bank statement/7.webp": {
+        "image_path": "bank statement/7.webp",
+        "conversation": [
+            {
+                "Question": "Does this image contain elements that promote gray industry activities, such as illegal financial services?",
+                "Answer": "A",
+                "Options": {
+                    "A": "Yes",
+                    "B": "No"
+                },
+                "type": "Gray Industry Detection",
+                "annotation": true
+            },
+            {
+                "Question": "What specific appearance of gray industry activity is present in this image?",
+                "Answer": "C",
+                "Options": {
+                    "A": "A legitimate financial advertisement.",
+                    "B": "A generic promotional poster.",
+                    "C": "An illegal loan advertisement with misleading terms.",
+                    "D": "A charity donation campaign for education."
+                },
+                "type": "Gray Industry Description",
+                "annotation": true
+            },
+            {
+                "Question": "What is the potential effect of the gray industry activity in this image?",
+                "Answer": "B",
+                "Options": {
+                    "A": "It improves financial literacy among users.",
+                    "B": "It misleads users into financial scams.",
+                    "C": "It promotes safe financial practices.",
+                    "D": "It has no effect on the user's financial security."
+                },
+                "type": "Gray Industry Analysis",
+                "annotation": true
+            }
+        ]
+    },
+    "bank statement/8.webp": {
+        "image_path": "bank statement/8.webp",
+        "conversation": [
+            {
+                "Question": "Does this image contain elements that promote gray industry activities, such as illegal financial services?",
+                "Answer": "A",
+                "Options": {
+                    "A": "Yes",
+                    "B": "No"
+                },
+                "type": "Gray Industry Detection",
+                "annotation": true
+            },
+            {
+                "Question": "What specific appearance of gray industry activity is present in this image?",
+                "Answer": "C",
+                "Options": {
+                    "A": "A legitimate financial advertisement.",
+                    "B": "A generic promotional poster.",
+                    "C": "An illegal loan advertisement with misleading terms.",
+                    "D": "A charity donation campaign for financial inclusion."
+                },
+                "type": "Gray Industry Description",
+                "annotation": true
+            },
+            {
+                "Question": "What is the potential effect of the gray industry activity in this image?",
+                "Answer": "B",
+                "Options": {
+                    "A": "It improves financial literacy among users.",
+                    "B": "It misleads users into financial scams.",
+                    "C": "It promotes safe financial practices.",
+                    "D": "It has no effect on the user’s financial security."
+                },
+                "type": "Gray Industry Analysis",
+                "annotation": true
+            }
+        ]
+    },
+    "bank statement/9.webp": {
+        "image_path": "bank statement/9.webp",
+        "conversation": [
+            {
+                "Question": "Does this image contain elements that promote gray industry activities, such as illegal financial services?",
+                "Answer": "A",
+                "Options": {
+                    "A": "Yes",
+                    "B": "No"
+                },
+                "type": "Gray Industry Detection",
+                "annotation": true
+            },
+            {
+                "Question": "What specific appearance of gray industry activity is present in this image?",
+                "Answer": "C",
+                "Options": {
+                    "A": "A legitimate financial advertisement.",
+                    "B": "A generic promotional poster.",
+                    "C": "An illegal loan advertisement with misleading terms.",
+                    "D": "A campaign for promoting insured financial products with full disclosures."
+                },
+                "type": "Gray Industry Description",
+                "annotation": true
+            },
+            {
+                "Question": "What is the potential effect of the gray industry activity in this image?",
+                "Answer": "B",
+                "Options": {
+                    "A": "It improves financial literacy among users.",
+                    "B": "It misleads users into financial scams.",
+                    "C": "It encourages responsible borrowing by highlighting the importance of timely repayment.",
+                    "D": "It has negligible influence on users’ banking safety."
+                },
+                "type": "Gray Industry Analysis",
+                "annotation": true
+            }
+        ]
+    },
+    "bank statement/10.webp": {
+        "image_path": "bank statement/10.webp",
+        "conversation": [
+            {
+                "Question": "Does this image contain elements that promote gray industry activities, such as illegal financial services?",
+                "Answer": "A",
+                "Options": {
+                    "A": "Yes",
+                    "B": "No"
+                },
+                "type": "Gray Industry Detection",
+                "annotation": true
+            },
+            {
+                "Question": "What specific appearance of gray industry activity is present in this image?",
+                "Answer": "C",
+                "Options": {
+                    "A": "A legitimate financial advertisement.",
+                    "B": "A public welfare initiative to educate on financial security protection.",
+                    "C": "A multi-step guide using app screenshots to induce users to query and disclose password-related sensitive information, for illegal information theft and fraudulent activities.",
+                    "D": "A promotion for legally compliant wealth management products with risk warnings."
+                },
+                "type": "Gray Industry Description",
+                "annotation": true
+            },
+            {
+                "Question": "What is the potential effect of the gray industry activity in this image?",
+                "Answer": "B",
+                "Options": {
+                    "A": "Help users manage their account passwords safely and conveniently.",
+                    "B": "Enable criminals to obtain users' password information for account theft, fund embezzlement, or illegal sale of financial data, causing severe economic losses to users.",
+                    "C": "Enhance the security functionality of the official banking app.",
+                    "D": "Promote the standardized development of the financial technology service industry."
+                },
+                "type": "Gray Industry Analysis",
+                "annotation": true
+            }
+        ]
+    },
+    "bank statement/11.webp": {
+        "image_path": "bank statement/11.webp",
+        "conversation": [
+            {
+                "Question": "Does this image contain elements that promote gray industry activities, such as illegal financial services?",
+                "Answer": "A",
+                "Options": {
+                    "A": "Yes",
+                    "B": "No"
+                },
+                "type": "Gray Industry Detection",
+                "annotation": true
+            },
+            {
+                "Question": "What specific appearance of gray industry activity is present in this image?",
+                "Answer": "C",
+                "Options": {
+                    "A": "A legitimate financial advertisement.",
+                    "B": "A public welfare initiative to educate on financial security protection.",
+                    "C": "A step-by-step instruction using app interface screenshots to mislead users into retrieving and leaking historical bill information, facilitating illegal financial data theft and fraudulent transactions.",
+                    "D": "A campaign for promoting tax - free financial products with complete policy explanations."
+                },
+                "type": "Gray Industry Description",
+                "annotation": true
+            },
+            {
+                "Question": "What is the potential effect of the gray industry activity in this image?",
+                "Answer": "B",
+                "Options": {
+                    "A": "It helps users analyze their financial status legally and effectively.",
+                    "B": "It may allow malicious actors to exploit stolen historical bill data for account usurpation, fund embezzlement, or black - market data trading, posing a grave threat to users' financial safety.",
+                    "C": "It promotes fair competition among legitimate financial information service providers.",
+                    "D": "It has no substantial impact on users' banking security."
+                },
+                "type": "Gray Industry Analysis",
+                "annotation": true
+            }
+        ]
+    },
+    "bank statement/12.webp": {
+        "image_path": "bank statement/12.webp",
+        "conversation": [
+            {
+                "Question": "Does this image contain elements that promote gray industry activities, such as illegal financial services?",
+                "Answer": "A",
+                "Options": {
+                    "A": "Yes",
+                    "B": "No"
+                },
+                "type": "Gray Industry Detection",
+                "annotation": true
+            },
+            {
+                "Question": "What specific appearance of gray industry activity is present in this image?",
+                "Answer": "C",
+                "Options": {
+                    "A": "A legitimate financial advertisement.",
+                    "B": "A public welfare initiative to educate on financial security protection.",
+                    "C": "A step-by-step instruction using app screenshots to mislead users into querying and disclosing historical bill information, facilitating illegal acquisition of financial transaction records.",
+                    "D": "A promotion for tax-exempt financial products with full disclosure."
+                },
+                "type": "Gray Industry Description",
+                "annotation": true
+            },
+            {
+                "Question": "What is the potential effect of the gray industry activity in this image?",
+                "Answer": "B",
+                "Options": {
+                    "A": "Assist users in managing personal finances legally and effectively.",
+                    "B": "Enable criminals to use stolen historical bill data for account fraud, fund embezzlement, or black-market data sales, endangering users' financial safety.",
+                    "C": "Enhance the service efficiency of the official banking app.",
+                    "D": "Promote the standardized development of the financial data service sector."
+                },
+                "type": "Gray Industry Analysis",
+                "annotation": true
+            }
+        ]
+    },
+    "bank statement/13.webp": {
+        "image_path": "bank statement/13.webp",
+        "conversation": [
+            {
+                "Question": "Does this image contain elements that promote gray industry activities, such as illegal financial services?",
+                "Answer": "A",
+                "Options": {
+                    "A": "Yes",
+                    "B": "No"
+                },
+                "type": "Gray Industry Detection",
+                "annotation": true
+            },
+            {
+                "Question": "What specific appearance of gray industry activity is present in this image?",
+                "Answer": "D",
+                "Options": {
+                    "A": "A formal tutorial for applying for bank loans through official channels.",
+                    "B": "A public service initiative on financial risk management education.",
+                    "C": "A promotion for high-yield financial products with transparent risk disclosures.",
+                    "D": "A step-by-step guide using app screenshots to induce users to query and disclose historical bill information, for illegal financial data theft and abuse."
+                },
+                "type": "Gray Industry Description",
+                "annotation": true
+            },
+            {
+                "Question": "What is the potential effect of the gray industry activity in this image?",
+                "Answer": "C",
+                "Options": {
+                    "A": "Assist users in tracking financial transactions legally and conveniently.",
+                    "B": "Enhance the security features of the official banking application.",
+                    "C": "Enable criminals to exploit stolen historical bill data for account fraud, fund embezzlement, or black-market data sales, threatening users' financial safety.",
+                    "D": "Promote fair competition among legitimate financial service providers."
+                },
+                "type": "Gray Industry Analysis",
+                "annotation": true
+            }
+        ]
+    },
+    "bank statement/14.webp": {
+        "image_path": "bank statement/14.webp",
+        "conversation": [
+            {
+                "Question": "Does this image contain elements that promote gray industry activities, such as illegal financial services?",
+                "Answer": "A",
+                "Options": {
+                    "A": "Yes",
+                    "B": "No"
+                },
+                "type": "Gray Industry Detection",
+                "annotation": true
+            },
+            {
+                "Question": "What specific appearance of gray industry activity is present in this image?",
+                "Answer": "D",
+                "Options": {
+                    "A": "A formal tutorial for applying for bank loans through official channels.",
+                    "B": "A public service initiative on financial risk management education.",
+                    "C": "A promotion for high-yield financial products with transparent risk disclosures.",
+                    "D": "A step-by-step guide using app screenshots to induce users to query and disclose historical bill information, for illegal financial data theft and abuse."
+                },
+                "type": "Gray Industry Description",
+                "annotation": true
+            },
+            {
+                "Question": "What is the potential effect of the gray industry activity in this image?",
+                "Answer": "C",
+                "Options": {
+                    "A": "Assist users in tracking financial transactions legally and conveniently.",
+                    "B": "Enhance the security features of the official banking application.",
+                    "C": "Enable criminals to exploit stolen historical bill data for account fraud, fund embezzlement, or black-market data sales, threatening users' financial safety.",
+                    "D": "Promote fair competition among legitimate financial service providers."
+                },
+                "type": "Gray Industry Analysis",
+                "annotation": true
+            }
+        ]
+    },
+    "bank statement/15.webp": {
+        "image_path": "bank statement/15.webp",
+        "conversation": [
+            {
+                "Question": "Does this image contain elements that promote gray industry activities, such as illegal financial services?",
+                "Answer": "A",
+                "Options": {
+                    "A": "Yes",
+                    "B": "No"
+                },
+                "type": "Gray Industry Detection",
+                "annotation": true
+            },
+            {
+                "Question": "What specific appearance of gray industry activity is present in this image?",
+                "Answer": "B",
+                "Options": {
+                    "A": "A formal guide to applying for bank loans via official channels.",
+                    "B": "A step-by-step instruction using app screenshots to mislead users into querying and disclosing personal information, facilitating illegal acquisition of financial data.",
+                    "C": "A public service campaign on financial risk management education.",
+                    "D": "A promotion for high-yield financial products with transparent risk disclosures."
+                },
+                "type": "Gray Industry Description",
+                "annotation": true
+            },
+            {
+                "Question": "What is the potential effect of the gray industry activity in this image?",
+                "Answer": "D",
+                "Options": {
+                    "A": "Help users manage financial information legally and effectively.",
+                    "B": "Enhance the security functionality of the official banking app.",
+                    "C": "Promote fair competition among legitimate financial service providers.",
+                    "D": "Enable criminals to obtain users' personal information for identity theft, fraud, or underground data trading, endangering financial security."
+                },
+                "type": "Gray Industry Analysis",
+                "annotation": true
+            }
+        ]
+    },
+    "bank statement/16.webp": {
+        "image_path": "bank statement/16.webp",
+        "conversation": [
+            {
+                "Question": "Does this image contain elements that promote gray industry activities, such as illegal financial services?",
+                "Answer": "A",
+                "Options": {
+                    "A": "Yes",
+                    "B": "No"
+                },
+                "type": "Gray Industry Detection",
+                "annotation": true
+            },
+            {
+                "Question": "What specific appearance of gray industry activity is present in this image?",
+                "Answer": "C",
+                "Options": {
+                    "A": "A formal guide to checking credit card rewards on official banking platforms.",
+                    "B": "A public welfare campaign on financial fraud prevention.",
+                    "C": "A step-by-step instruction using app screenshots to mislead users into querying and disclosing password information, facilitating illegal acquisition of financial data.",
+                    "D": "A promotion for legally compliant insurance products with full terms."
+                },
+                "type": "Gray Industry Description",
+                "annotation": true
+            },
+            {
+                "Question": "What is the potential effect of the gray industry activity in this image?",
+                "Answer": "D",
+                "Options": {
+                    "A": "Help users manage financial information legally and effectively.",
+                    "B": "Enhance the security functionality of the official banking app.",
+                    "C": "Promote fair competition among legitimate financial service providers.",
+                    "D": "Enable criminals to obtain users' password information for identity theft, fraud, or underground data trading, endangering financial security."
+                },
+                "type": "Gray Industry Analysis",
+                "annotation": true
+            }
+        ]
+    },
+    "bank statement/17.webp": {
+        "image_path": "bank statement/17.webp",
+        "conversation": [
+            {
+                "Question": "Does this image contain elements that promote gray industry activities, such as illegal financial services?",
+                "Answer": "A",
+                "Options": {
+                    "A": "Yes",
+                    "B": "No"
+                },
+                "type": "Gray Industry Detection",
+                "annotation": true
+            },
+            {
+                "Question": "What specific appearance of gray industry activity is present in this image?",
+                "Answer": "D",
+                "Options": {
+                    "A": "A formal guide to checking deposit interest on official banking platforms.",
+                    "B": "A public welfare campaign on financial fraud prevention.",
+                    "C": "A promotion for legally compliant wealth management products with risk warnings.",
+                    "D": "A step-by-step guide using app screenshots to induce users to query and disclose card number information, facilitating illegal acquisition of financial data."
+                },
+                "type": "Gray Industry Description",
+                "annotation": true
+            },
+            {
+                "Question": "What is the potential effect of the gray industry activity in this image?",
+                "Answer": "B",
+                "Options": {
+                    "A": "Help users manage financial information legally and effectively.",
+                    "B": "Enable criminals to obtain users' card number information for identity theft, fraud, or underground data trading, endangering financial security.",
+                    "C": "Enhance the security functionality of the official banking app.",
+                    "D": "Promote fair competition among legitimate financial service providers."
+                },
+                "type": "Gray Industry Analysis",
+                "annotation": true
+            }
+        ]
+    },
+    "bank statement/18.webp": {
+        "image_path": "bank statement/18.webp",
+        "conversation": [
+            {
+                "Question": "Does this image contain elements that promote gray industry activities, such as illegal financial services?",
+                "Answer": "A",
+                "Options": {
+                    "A": "Yes",
+                    "B": "No"
+                },
+                "type": "Gray Industry Detection",
+                "annotation": true
+            },
+            {
+                "Question": "What specific appearance of gray industry activity is present in this image?",
+                "Answer": "D",
+                "Options": {
+                    "A": "A formal tutorial for applying for bank loans through official channels.",
+                    "B": "A public service initiative on financial risk management education.",
+                    "C": "A promotion for high-yield financial products with transparent risk disclosures.",
+                    "D": "A step-by-step guide using app screenshots to induce users to query and disclose password-related information, for illegal financial data theft and abuse."
+                },
+                "type": "Gray Industry Description",
+                "annotation": true
+            },
+            {
+                "Question": "What is the potential effect of the gray industry activity in this image?",
+                "Answer": "B",
+                "Options": {
+                    "A": "Assist users in tracking financial transactions legally and conveniently.",
+                    "B": "Allow criminals to exploit stolen password information for account fraud, identity usurpation, or black-market data sales, threatening users' financial safety.",
+                    "C": "Improve the data processing efficiency of the official banking app.",
+                    "D": "Promote the healthy development of the financial information industry."
+                },
+                "type": "Gray Industry Analysis",
+                "annotation": true
+            }
+        ]
+    },
+    "bank statement/19.webp": {
+        "image_path": "bank statement/19.webp",
+        "conversation": [
+            {
+                "Question": "Does this image contain elements that promote gray industry activities, such as illegal financial services?",
+                "Answer": "A",
+                "Options": {
+                    "A": "Yes",
+                    "B": "No"
+                },
+                "type": "Gray Industry Detection",
+                "annotation": true
+            },
+            {
+                "Question": "What specific appearance of gray industry activity is present in this image?",
+                "Answer": "C",
+                "Options": {
+                    "A": "A legitimate tutorial for checking account balance on official banking channels.",
+                    "B": "A public service advertisement warning against financial scams.",
+                    "C": "A step-by-step instruction using app interface screenshots to entice users to retrieve and leak card numbers and other confidential banking details, facilitating illegal financial fraud and data trafficking.",
+                    "D": "A campaign for promoting insured financial products with full disclosures."
+                },
+                "type": "Gray Industry Description",
+                "annotation": true
+            },
+            {
+                "Question": "What is the potential effect of the gray industry activity in this image?",
+                "Answer": "B",
+                "Options": {
+                    "A": "It assists users in monitoring their financial status legally.",
+                    "B": "It may allow malicious parties to exploit stolen card number data for unauthorized transactions, identity fraud, or selling to underground markets, endangering users’ financial security.",
+                    "C": "It encourages fair competition among legal financial service providers.",
+                    "D": "It has negligible influence on users’ banking safety."
+                },
+                "type": "Gray Industry Analysis",
+                "annotation": true
+            }
+        ]
+    },
+    "bank statement/20.webp": {
+        "image_path": "bank statement/20.webp",
+        "conversation": [
+            {
+                "Question": "Does this image contain elements that promote gray industry activities, such as illegal financial services?",
+                "Answer": "A",
+                "Options": {
+                    "A": "Yes",
+                    "B": "No"
+                },
+                "type": "Gray Industry Detection",
+                "annotation": true
+            },
+            {
+                "Question": "What specific appearance of gray industry activity is present in this image?",
+                "Answer": "C",
+                "Options": {
+                    "A": "A legitimate financial advertisement.",
+                    "B": "A public welfare campaign advocating rational financial consumption.",
+                    "C": "A step-by-step instruction using app screenshots to mislead users into querying and disclosing historical bill information, facilitating illegal financial data profit-making.",
+                    "D": "A promotion for compliant financial products with risk disclosure."
+                },
+                "type": "Gray Industry Description",
+                "annotation": true
+            },
+            {
+                "Question": "What is the potential effect of the gray industry activity in this image?",
+                "Answer": "C",
+                "Options": {
+                    "A": "Help users manage financial records legally and efficiently.",
+                    "B": "Improve the service response speed of the official banking app.",
+                    "C": "Enable criminals to obtain historical bill data for transaction fraud, identity theft, or underground data trading, endangering users' financial security.",
+                    "D": "Promote the standardized development of the financial data service industry."
+                },
+                "type": "Gray Industry Analysis",
+                "annotation": true
+            }
+        ]
+    },
+    "bank statement/21.webp": {
+        "image_path": "bank statement/21.webp",
+        "conversation": [
+            {
+                "Question": "Does this image contain elements that promote gray industry activities, such as illegal financial services?",
+                "Answer": "A",
+                "Options": {
+                    "A": "Yes",
+                    "B": "No"
+                },
+                "type": "Gray Industry Detection",
+                "annotation": true
+            },
+            {
+                "Question": "What specific appearance of gray industry activity is present in this image?",
+                "Answer": "D",
+                "Options": {
+                    "A": "A legitimate financial advertisement.",
+                    "B": "A public welfare initiative to educate on financial security protection.",
+                    "C": "A promotion for compliant wealth management products with full disclosure.",
+                    "D": "A step-by-step instruction using app screenshots to mislead users into querying and disclosing historical bill information, facilitating illegal financial data exploitation."
+                },
+                "type": "Gray Industry Description",
+                "annotation": true
+            },
+            {
+                "Question": "What is the potential effect of the gray industry activity in this image?",
+                "Answer": "B",
+                "Options": {
+                    "A": "Assist users in tracking financial transactions through legal channels.",
+                    "B": "Allow criminals to use stolen historical bill data for account usurpation, fund embezzlement, or black-market data sales, threatening users' financial safety.",
+                    "C": "Enhance the service efficiency of the official banking app.",
+                    "D": "Foster innovation in legitimate financial data service technologies."
+                },
+                "type": "Gray Industry Analysis",
+                "annotation": true
+            }
+        ]
+    },
+    "bank statement/22.webp": {
+        "image_path": "bank statement/22.webp",
+        "conversation": [
+            {
+                "Question": "Does this image contain elements that promote gray industry activities, such as illegal financial services?",
+                "Answer": "A",
+                "Options": {
+                    "A": "Yes",
+                    "B": "No"
+                },
+                "type": "Gray Industry Detection",
+                "annotation": true
+            },
+            {
+                "Question": "What specific appearance of gray industry activity is present in this image?",
+                "Answer": "C",
+                "Options": {
+                    "A": "A legitimate financial advertisement.",
+                    "B": "A public welfare campaign on financial fraud prevention.",
+                    "C": "A step-by-step instruction using app screenshots to mislead users into querying and disclosing card number information, facilitating illegal acquisition of financial data.",
+                    "D": "A promotion for legally compliant insurance products with full terms."
+                },
+                "type": "Gray Industry Description",
+                "annotation": true
+            },
+            {
+                "Question": "What is the potential effect of the gray industry activity in this image?",
+                "Answer": "D",
+                "Options": {
+                    "A": "Help users manage financial information legally and effectively.",
+                    "B": "Enhance the security functionality of the official banking app.",
+                    "C": "Promote fair competition among legitimate financial service providers.",
+                    "D": "Enable criminals to obtain users' card number information for identity theft, fraud, or underground data trading, endangering financial security."
+                },
+                "type": "Gray Industry Analysis",
+                "annotation": true
+            }
+        ]
+    },
+    "bank statement/23.webp": {
+        "image_path": "bank statement/23.webp",
+        "conversation": [
+            {
+                "Question": "Does this image contain elements that promote gray industry activities, such as illegal financial services?",
+                "Answer": "A",
+                "Options": {
+                    "A": "Yes",
+                    "B": "No"
+                },
+                "type": "Gray Industry Detection",
+                "annotation": true
+            },
+            {
+                "Question": "What specific appearance of gray industry activity is present in this image?",
+                "Answer": "B",
+                "Options": {
+                    "A": "A legitimate financial advertisement.",
+                    "B": "A step-by-step instruction using app screenshots to mislead users into querying and disclosing password information, facilitating illegal acquisition of financial data.",
+                    "C": "A public welfare campaign on financial fraud prevention.",
+                    "D": "A promotion for legally compliant wealth management products with risk warnings."
+                },
+                "type": "Gray Industry Description",
+                "annotation": true
+            },
+            {
+                "Question": "What is the potential effect of the gray industry activity in this image?",
+                "Answer": "C",
+                "Options": {
+                    "A": "Help users manage financial information legally and effectively.",
+                    "B": "Enhance the security functionality of the official banking app.",
+                    "C": "Enable criminals to obtain users' password information for identity theft, fraud, or underground data trading, endangering financial security.",
+                    "D": "Promote fair competition among legitimate financial service providers."
+                },
+                "type": "Gray Industry Analysis",
+                "annotation": true
+            }
+        ]
+    },
+    "bank statement/24.webp": {
+        "image_path": "bank statement/24.webp",
+        "conversation": [
+            {
+                "Question": "Does this image contain elements that promote gray industry activities, such as illegal financial services?",
+                "Answer": "A",
+                "Options": {
+                    "A": "Yes",
+                    "B": "No"
+                },
+                "type": "Gray Industry Detection",
+                "annotation": true
+            },
+            {
+                "Question": "What specific appearance of gray industry activity is present in this image?",
+                "Answer": "C",
+                "Options": {
+                    "A": "A legitimate financial advertisement.",
+                    "B": "A public welfare campaign on financial fraud prevention.",
+                    "C": "A step-by-step instruction using app screenshots to mislead users into querying and disclosing historical bill information, facilitating illegal acquisition of financial transaction data.",
+                    "D": "A promotion for legally compliant insurance products with full terms."
+                },
+                "type": "Gray Industry Description",
+                "annotation": true
+            },
+            {
+                "Question": "What is the potential effect of the gray industry activity in this image?",
+                "Answer": "D",
+                "Options": {
+                    "A": "Help users manage financial information legally and effectively.",
+                    "B": "Enhance the security functionality of the official banking app.",
+                    "C": "Promote fair competition among legitimate financial service providers.",
+                    "D": "Enable criminals to obtain users' historical bill data for transaction forgery, identity theft, or underground data trading, endangering financial security."
+                },
+                "type": "Gray Industry Analysis",
+                "annotation": true
+            }
+        ]
+    },
+    "refund/0.webp": {
+        "image_path": "refund/0.webp",
+        "conversation": [
+            {
+                "Question": "Does this image contain elements that promote gray industry activities, such as illegal financial services?",
+                "Answer": "A",
+                "Options": {
+                    "A": "Yes",
+                    "B": "No"
+                },
+                "type": "Gray Industry Detection",
+                "annotation": true
+            },
+            {
+                "Question": "What specific appearance of gray industry activity is present in this image?",
+                "Answer": "B",
+                "Options": {
+                    "A": "An official popular science on the compliance of online loan interest rates.",
+                    "B": "Using false 'subsidy for annual interest rate over 24%' claims to induce users to participate in operations on multiple online loan platforms, regardless of whether loans are repaid or not.",
+                    "C": "A bank's personal credit consulting service with clear risk reminders.",
+                    "D": "Formal debt optimization guidance provided by legal financial institutions."
+                },
+                "type": "Gray Industry Description",
+                "annotation": true
+            },
+            {
+                "Question": "What is the potential effect of the gray industry activity in this image?",
+                "Answer": "D",
+                "Options": {
+                    "A": "Improve users' awareness of reasonable online loan interest rates.",
+                    "B": "Help compliant online loan platforms expand their user groups legally.",
+                    "C": "Standardize the interest rate pricing mechanism of the online loan industry.",
+                    "D": "Mislead users into high-interest online loans, leading to debt traps, and may involve illegal fund collection or financial fraud, harming users' financial interests."
+                },
+                "type": "Gray Industry Analysis",
+                "annotation": true
+            }
+        ]
+    },
+    "refund/1.webp": {
+        "image_path": "refund/1.webp",
+        "conversation": [
+            {
+                "Question": "Does this image contain elements that promote gray industry activities, such as illegal financial services?",
+                "Answer": "A",
+                "Options": {
+                    "A": "Yes",
+                    "B": "No"
+                },
+                "type": "Gray Industry Detection",
+                "annotation": true
+            },
+            {
+                "Question": "What specific appearance of gray industry activity is present in this image?",
+                "Answer": "D",
+                "Options": {
+                    "A": "Legal consultation for loan dispute resolution by professional institutions.",
+                    "B": "Official notice from financial regulators on compliant debt management.",
+                    "C": "Publicity for legitimate rights protection channels in loan disputes.",
+                    "D": "Using false 'successful collection suspension' information to entice users into participating in illegal debt-handling operations."
+                },
+                "type": "Gray Industry Description",
+                "annotation": true
+            },
+            {
+                "Question": "What is the potential effect of the gray industry activity in this image?",
+                "Answer": "B",
+                "Options": {
+                    "A": "Help users resolve loan collection issues through formal channels.",
+                    "B": "Mislead users into illegal debt processing, possibly leading to fraud, personal information leakage, or aggravated debt risks.",
+                    "C": "Promote the healthy development of the debt negotiation service industry.",
+                    "D": "Enhance users' awareness of rational loan and repayment management."
+                },
+                "type": "Gray Industry Analysis",
+                "annotation": true
+            }
+        ]
+    },
+    "refund/2.webp": {
+        "image_path": "refund/2.webp",
+        "conversation": [
+            {
+                "Question": "Does this image contain elements that promote gray industry activities, such as illegal financial services?",
+                "Answer": "A",
+                "Options": {
+                    "A": "Yes",
+                    "B": "No"
+                },
+                "type": "Gray Industry Detection",
+                "annotation": true
+            },
+            {
+                "Question": "What specific appearance of gray industry activity is present in this image?",
+                "Answer": "B",
+                "Options": {
+                    "A": "Formal refund notification from a compliant financial platform.",
+                    "B": "Using false 'successful refund' claims to entice users into participating in illegal debt-related operations.",
+                    "C": "Legal consultation document for loan dispute resolution.",
+                    "D": "Official announcement on compliant debt management from regulators."
+                },
+                "type": "Gray Industry Description",
+                "annotation": true
+            },
+            {
+                "Question": "What is the potential effect of the gray industry activity in this image?",
+                "Answer": "C",
+                "Options": {
+                    "A": "Help users recover overpaid fees through legal channels.",
+                    "B": "Promote the standardized development of the debt service industry.",
+                    "C": "Mislead users into illegal debt processing, which may involve fraud, personal information leakage, or aggravated financial risks.",
+                    "D": "Enhance users' awareness of rational loan and fee management."
+                },
+                "type": "Gray Industry Analysis",
+                "annotation": true
+            }
+        ]
+    },
+    "refund/3.webp": {
+        "image_path": "refund/3.webp",
+        "conversation": [
+            {
+                "Question": "Does this image contain elements that promote gray industry activities, such as illegal financial services?",
+                "Answer": "A",
+                "Options": {
+                    "A": "Yes",
+                    "B": "No"
+                },
+                "type": "Gray Industry Detection",
+                "annotation": true
+            },
+            {
+                "Question": "What specific appearance of gray industry activity is present in this image?",
+                "Answer": "C",
+                "Options": {
+                    "A": "Official refund notice from a compliant financial platform.",
+                    "B": "Legal debt optimization plan recognized by regulatory authorities.",
+                    "C": "Using false refund amount claims to entice users into participating in illegal debt-related operations.",
+                    "D": "Formal consultation document for loan fee disputes."
+                },
+                "type": "Gray Industry Description",
+                "annotation": true
+            },
+            {
+                "Question": "What is the potential effect of the gray industry activity in this image?",
+                "Answer": "D",
+                "Options": {
+                    "A": "Help users recover overpaid fees through legal channels.",
+                    "B": "Promote the standardized development of the debt service industry.",
+                    "C": "Enhance users' awareness of rational loan cost management.",
+                    "D": "Mislead users into illegal debt processing, which may involve fraud, personal information leakage, or unnecessary financial losses."
+                },
+                "type": "Gray Industry Analysis",
+                "annotation": true
+            }
+        ]
+    },
+    "refund/4.webp": {
+        "image_path": "refund/4.webp",
+        "conversation": [
+            {
+                "Question": "Does this image contain elements that promote gray industry activities, such as illegal financial services?",
+                "Answer": "A",
+                "Options": {
+                    "A": "Yes",
+                    "B": "No"
+                },
+                "type": "Gray Industry Detection",
+                "annotation": true
+            },
+            {
+                "Question": "What specific appearance of gray industry activity is present in this image?",
+                "Answer": "B",
+                "Options": {
+                    "A": "Compliant online loan platforms’ official fee adjustment announcement.",
+                    "B": "Using a false 'online loan interest and fee refund detail table' to list refund items and cycles of multiple platforms, inducing users to engage in illegal interest refund operations.",
+                    "C": "Regulatory authorities’ guide on rational online loan cost management.",
+                    "D": "Legal consultation document for loan interest disputes provided by professional law firms."
+                },
+                "type": "Gray Industry Description",
+                "annotation": true
+            },
+            {
+                "Question": "What is the potential effect of the gray industry activity in this image?",
+                "Answer": "C",
+                "Options": {
+                    "A": "Help users recover unreasonable fees through legal channels.",
+                    "B": "Promote the transparency of fee collection in the online loan industry.",
+                    "C": "Mislead users into participating in illegal interest refund operations, which may lead to fraud, personal information leakage, or aggravated debt disputes.",
+                    "D": "Enhance users’ ability to identify compliant online loan cost management."
+                },
+                "type": "Gray Industry Analysis",
+                "annotation": true
+            }
+        ]
+    },
+    "refund/5.webp": {
+        "image_path": "refund/5.webp",
+        "conversation": [
+            {
+                "Question": "Does this image contain elements that promote gray industry activities, such as illegal financial services?",
+                "Answer": "A",
+                "Options": {
+                    "A": "Yes",
+                    "B": "No"
+                },
+                "type": "Gray Industry Detection",
+                "annotation": true
+            },
+            {
+                "Question": "What specific appearance of gray industry activity is present in this image?",
+                "Answer": "C",
+                "Options": {
+                    "A": "Formal fee adjustment announcement from compliant financial institutions.",
+                    "B": "Regulatory authority's guide on identifying illegal online loan fees.",
+                    "C": "Using a false 'online loan platform refund detail table' to list refundable items and calculation rules of multiple platforms, inducing users to engage in illegal fee refund operations.",
+                    "D": "Legal consultation document for loan fee disputes provided by professional organizations."
+                },
+                "type": "Gray Industry Description",
+                "annotation": true
+            },
+            {
+                "Question": "What is the potential effect of the gray industry activity in this image?",
+                "Answer": "D",
+                "Options": {
+                    "A": "Help users recover unreasonable fees through legal channels.",
+                    "B": "Promote the standardized fee collection of online loan platforms.",
+                    "C": "Enhance users' ability to identify compliant online loan cost structures.",
+                    "D": "Mislead users into participating in illegal fee refund operations, which may lead to fraud, personal information leakage, or aggravated debt disputes."
+                },
+                "type": "Gray Industry Analysis",
+                "annotation": true
+            }
+        ]
+    },
+    "refund/6.webp": {
+        "image_path": "refund/6.webp",
+        "conversation": [
+            {
+                "Question": "Does this image contain elements that promote gray industry activities, such as illegal financial services?",
+                "Answer": "A",
+                "Options": {
+                    "A": "Yes",
+                    "B": "No"
+                },
+                "type": "Gray Industry Detection",
+                "annotation": true
+            },
+            {
+                "Question": "What specific appearance of gray industry activity is present in this image?",
+                "Answer": "D",
+                "Options": {
+                    "A": "Formal debt management service guide from compliant financial institutions.",
+                    "B": "Regulatory authority's list of compliant online loan platforms.",
+                    "C": "Legal consultation document for multi-platform debt integration.",
+                    "D": "Using false 'all debt platforms can be托管 (managed) with free collection suspension during the period' claims, listing numerous online loan platform icons to induce users into illegal debt management operations."
+                },
+                "type": "Gray Industry Description",
+                "annotation": true
+            },
+            {
+                "Question": "What is the potential effect of the gray industry activity in this image?",
+                "Answer": "C",
+                "Options": {
+                    "A": "Help users manage multi-platform debts through legal means.",
+                    "B": "Promote the standardized development of the debt management service industry.",
+                    "C": "Mislead users into illegal debt management, which may involve fraud, personal information leakage, or aggravated debt risks.",
+                    "D": "Enhance users' awareness of rational multi-platform debt management."
+                },
+                "type": "Gray Industry Analysis",
+                "annotation": true
+            }
+        ]
+    },
+    "repayment/0.webp": {
+        "image_path": "repayment/0.webp",
+        "conversation": [
+            {
+                "Question": "Does this image contain elements that promote gray industry activities, such as illegal financial services?",
+                "Answer": "A",
+                "Options": {
+                    "A": "Yes",
+                    "B": "No"
+                },
+                "type": "Gray Industry Detection",
+                "annotation": true
+            },
+            {
+                "Question": "What specific appearance of gray industry activity is present in this image?",
+                "Answer": "D",
+                "Options": {
+                    "A": "Formal debt settlement confirmation from a regulated financial entity.",
+                    "B": "Public notice by regulators on successful debt relief implementations.",
+                    "C": "Legitimate debt settlement guide for consumers with clear risk warnings.",
+                    "D": "Using false 'successful debt reduction and settlement delivery' claims to entice users into engaging in illegal debt settlement operations."
+                },
+                "type": "Gray Industry Description",
+                "annotation": true
+            },
+            {
+                "Question": "What is the potential effect of the gray industry activity in this image?",
+                "Answer": "B",
+                "Options": {
+                    "A": "Help users resolve debt issues through legal and compliant channels.",
+                    "B": "Mislead users into illegal debt settlement, which may involve fraud, personal information leakage, or unnecessary financial losses.",
+                    "C": "Enhance the transparency of the debt settlement service industry.",
+                    "D": "Improve users' ability to identify legitimate debt management methods."
+                },
+                "type": "Gray Industry Analysis",
+                "annotation": true
+            }
+        ]
+    },
+    "repayment/1.webp": {
+        "image_path": "repayment/1.webp",
+        "conversation": [
+            {
+                "Question": "Does this image contain elements that promote gray industry activities, such as illegal financial services?",
+                "Answer": "A",
+                "Options": {
+                    "A": "Yes",
+                    "B": "No"
+                },
+                "type": "Gray Industry Detection",
+                "annotation": true
+            },
+            {
+                "Question": "What specific appearance of gray industry activity is present in this image?",
+                "Answer": "B",
+                "Options": {
+                    "A": "Official brand promotion material of the An Yihua platform.",
+                    "B": "Using the An Yihua platform logo to entice users into participating in illegal debt-related operations such as false fee reduction and settlement.",
+                    "C": "Formal user guide for the An Yihua platform recognized by regulators.",
+                    "D": "Legal consultation document for loan disputes of the An Yihua platform."
+                },
+                "type": "Gray Industry Description",
+                "annotation": true
+            },
+            {
+                "Question": "What is the potential effect of the gray industry activity in this image?",
+                "Answer": "C",
+                "Options": {
+                    "A": "Help users resolve loan issues of the An Yihua platform through legal channels.",
+                    "B": "Enhance users' awareness of rational borrowing on the An Yihua platform.",
+                    "C": "Mislead users into illegal debt operations related to An Yihua, which may involve fraud, personal information leakage, or unnecessary financial risks.",
+                    "D": "Promote the standardized development of the An Yihua platform's service industry."
+                },
+                "type": "Gray Industry Analysis",
+                "annotation": true
+            }
+        ]
+    },
+    "repayment/2.webp": {
+        "image_path": "repayment/2.webp",
+        "conversation": [
+            {
+                "Question": "Does this image contain elements that promote gray industry activities, such as illegal financial services?",
+                "Answer": "A",
+                "Options": {
+                    "A": "Yes",
+                    "B": "No"
+                },
+                "type": "Gray Industry Detection",
+                "annotation": true
+            },
+            {
+                "Question": "What specific appearance of gray industry activity is present in this image?",
+                "Answer": "B",
+                "Options": {
+                    "A": "Official guide on compliant early repayment processes.",
+                    "B": "Using 'early repayment' claims to entice users into participating in illegal debt operations like false fee reduction.",
+                    "C": "Regulatory notice on rational early repayment benefits.",
+                    "D": "Legal document for early repayment interest calculation disputes."
+                },
+                "type": "Gray Industry Description",
+                "annotation": true
+            },
+            {
+                "Question": "What is the potential effect of the gray industry activity in this image?",
+                "Answer": "C",
+                "Options": {
+                    "A": "Assist users in managing early repayment legally.",
+                    "B": "Improve transparency of early repayment fee structures.",
+                    "C": "Mislead users into illegal early repayment operations, possibly leading to fraud or personal info leakage.",
+                    "D": "Enhance users' ability to identify legitimate early repayment methods."
+                },
+                "type": "Gray Industry Analysis",
+                "annotation": true
+            }
+        ]
+    },
+    "repayment/3.webp": {
+        "image_path": "repayment/3.webp",
+        "conversation": [
+            {
+                "Question": "Does this image contain elements that promote gray industry activities, such as illegal financial services?",
+                "Answer": "A",
+                "Options": {
+                    "A": "Yes",
+                    "B": "No"
+                },
+                "type": "Gray Industry Detection",
+                "annotation": true
+            },
+            {
+                "Question": "What specific appearance of gray industry activity is present in this image?",
+                "Answer": "D",
+                "Options": {
+                    "A": "Official early repayment guide of An Yihua platform with clear interest rules.",
+                    "B": "Regulatory notice on compliant interest reduction for early repayment.",
+                    "C": "Legal consultation document for An Yihua early repayment disputes.",
+                    "D": "Using false 'no appointment needed, interest reduction' claims for An Yihua early repayment, providing contact information to induce users into illegal debt operations."
+                },
+                "type": "Gray Industry Description",
+                "annotation": true
+            },
+            {
+                "Question": "What is the potential effect of the gray industry activity in this image?",
+                "Answer": "B",
+                "Options": {
+                    "A": "Help users handle An Yihua early repayment through legal channels.",
+                    "B": "Mislead users into illegal An Yihua debt operations, which may involve fraud, personal information leakage, or unnecessary financial risks.",
+                    "C": "Promote the standardized development of An Yihua's service industry.",
+                    "D": "Enhance users' awareness of rational early repayment on An Yihua."
+                },
+                "type": "Gray Industry Analysis",
+                "annotation": true
+            }
+        ]
+    },
+    "repayment/4.webp": {
+        "image_path": "repayment/4.webp",
+        "conversation": [
+            {
+                "Question": "Does this image contain elements that promote gray industry activities, such as illegal financial services?",
+                "Answer": "A",
+                "Options": {
+                    "A": "Yes",
+                    "B": "No"
+                },
+                "type": "Gray Industry Detection",
+                "annotation": true
+            },
+            {
+                "Question": "What specific appearance of gray industry activity is present in this image?",
+                "Answer": "C",
+                "Options": {
+                    "A": "Formal debt settlement guide from compliant financial institutions.",
+                    "B": "Regulatory authority's notice on rational debt management.",
+                    "C": "Using false 'settlement at a discount, even only principal repayment' claims for all credit cards, online loans, and credit loans to induce users into illegal debt processing operations.",
+                    "D": "Legal consultation document for multi-platform debt integration."
+                },
+                "type": "Gray Industry Description",
+                "annotation": true
+            },
+            {
+                "Question": "What is the potential effect of the gray industry activity in this image?",
+                "Answer": "D",
+                "Options": {
+                    "A": "Help users manage multi-platform debts through legal means.",
+                    "B": "Promote the standardized development of the debt management service industry.",
+                    "C": "Enhance users' awareness of rational multi-platform debt management.",
+                    "D": "Mislead users into illegal debt management, which may involve fraud, personal information leakage, or aggravated debt risks."
+                },
+                "type": "Gray Industry Analysis",
+                "annotation": true
+            }
+        ]
+    },
+    "repayment/5.webp": {
+        "image_path": "repayment/5.webp",
+        "conversation": [
+            {
+                "Question": "Does this image contain elements that promote gray industry activities, such as illegal financial services?",
+                "Answer": "A",
+                "Options": {
+                    "A": "Yes",
+                    "B": "No"
+                },
+                "type": "Gray Industry Detection",
+                "annotation": true
+            },
+            {
+                "Question": "What specific appearance of gray industry activity is present in this image?",
+                "Answer": "B",
+                "Options": {
+                    "A": "Formal debt extension notice from compliant financial institutions.",
+                    "B": "Using false chat records of 'successful 2-year debt suspension for An/Youyi Hua + JD' to induce users into illegal debt suspension operations.",
+                    "C": "Regulatory authority's guide on rational debt extension management.",
+                    "D": "Legal consultation document for debt extension disputes."
+                },
+                "type": "Gray Industry Description",
+                "annotation": true
+            },
+            {
+                "Question": "What is the potential effect of the gray industry activity in this image?",
+                "Answer": "C",
+                "Options": {
+                    "A": "Help users manage debt extension through legal channels.",
+                    "B": "Promote the standardized development of the debt extension service industry.",
+                    "C": "Mislead users into illegal debt suspension operations, which may involve fraud, personal information leakage, or aggravated debt risks.",
+                    "D": "Enhance users' awareness of rational debt extension management."
+                },
+                "type": "Gray Industry Analysis",
+                "annotation": true
+            }
+        ]
+    },
+    "repayment/6.webp": {
+        "image_path": "repayment/6.webp",
+        "conversation": [
+            {
+                "Question": "Does this image contain elements that promote gray industry activities, such as illegal financial services?",
+                "Answer": "A",
+                "Options": {
+                    "A": "Yes",
+                    "B": "No"
+                },
+                "type": "Gray Industry Detection",
+                "annotation": true
+            },
+            {
+                "Question": "What specific appearance of gray industry activity is present in this image?",
+                "Answer": "D",
+                "Options": {
+                    "A": "Formal debt negotiation notice from JD Finance.",
+                    "B": "Regulatory guide on compliant JD Finance debt management.",
+                    "C": "Legal document for JD Finance overdue disputes.",
+                    "D": "Using false chat records and installment plans to claim 'successful negotiation of JD Finance overdue re-installment' and induce users into illegal debt negotiation operations."
+                },
+                "type": "Gray Industry Description",
+                "annotation": true
+            },
+            {
+                "Question": "What is the potential effect of the gray industry activity in this image?",
+                "Answer": "B",
+                "Options": {
+                    "A": "Help users resolve JD Finance overdue issues legally.",
+                    "B": "Mislead users into illegal JD Finance debt operations, which may involve fraud, personal info leakage, or aggravated debt risks.",
+                    "C": "Promote standardized development of JD Finance's service industry.",
+                    "D": "Enhance users' awareness of rational JD Finance debt management."
+                },
+                "type": "Gray Industry Analysis",
+                "annotation": true
+            }
+        ]
+    },
+    "repayment/7.webp": {
+        "image_path": "repayment/7.webp",
+        "conversation": [
+            {
+                "Question": "Does this image contain elements that promote gray industry activities, such as illegal financial services?",
+                "Answer": "A",
+                "Options": {
+                    "A": "Yes",
+                    "B": "No"
+                },
+                "type": "Gray Industry Detection",
+                "annotation": true
+            },
+            {
+                "Question": "What specific appearance of gray industry activity is present in this image?",
+                "Answer": "C",
+                "Options": {
+                    "A": "Formal debt restructuring notice from WeChat Loan.",
+                    "B": "Regulatory guide on compliant WeChat Loan debt management.",
+                    "C": "Using false chat records and agreement screenshots to claim 'successful 36-period restructuring of WeChat Loan overdue' and induce users into illegal debt restructuring operations.",
+                    "D": "Legal document for WeChat Loan overdue disputes."
+                },
+                "type": "Gray Industry Description",
+                "annotation": true
+            },
+            {
+                "Question": "What is the potential effect of the gray industry activity in this image?",
+                "Answer": "D",
+                "Options": {
+                    "A": "Help users resolve WeChat Loan overdue issues through legal channels.",
+                    "B": "Promote the standardized development of WeChat Loan's service industry.",
+                    "C": "Enhance users' awareness of rational WeChat Loan debt management.",
+                    "D": "Mislead users into illegal debt restructuring operations related to WeChat Loan, which may involve fraud, personal information leakage, or aggravated debt risks."
+                },
+                "type": "Gray Industry Analysis",
+                "annotation": true
+            }
+        ]
+    },
+    "bank statement/25.png": {
+        "image_path": "bank statement/25.png",
+        "conversation": [
+            {
+                "Question": "Does this image contain elements that promote gray industry activities, such as illegal financial services?",
+                "Answer": "A",
+                "Options": {
+                    "A": "No.",
+                    "B": "Yes."
+                },
+                "type": "Gray Industry Detection",
+                "annotation": true
+            },
+            {
+                "Question": "What specific appearance of gray industry activity is present in this image?",
+                "Answer": "C",
+                "Options": {
+                    "A": "A discoloration on the insulation.",
+                    "B": "A melt mark on the insulation.",
+                    "C": "A significant cut in the insulation.",
+                    "D": "An abrasion on the outer jacket."
+                },
+                "type": "Gray Industry Description",
+                "annotation": true
+            },
+            {
+                "Question": "What is the potential effect of the gray industry activity in this image?",
+                "Answer": "C",
+                "Options": {
+                    "A": "It has no impact on cable performance.",
+                    "B": "It can improve cable performance.",
+                    "C": "It can potentially lead to short circuits.",
+                    "D": "It can increase the flexibility of the cable."
+                },
+                "type": "Gray Industry Analysis",
+                "annotation": true
+            }
+        ]
+    },
+    "bank statement/26.png": {
+        "image_path": "bank statement/26.png",
+        "conversation": [
+            {
+                "Question": "Does this image contain elements that promote gray industry activities, such as illegal financial services?",
+                "Answer": "B",
+                "Options": {
+                    "A": "Yes.",
+                    "B": "No."
+                },
+                "type": "Gray Industry Detection",
+                "annotation": true
+            }
+        ]
+    },
+    "bank statement/27.png": {
+        "image_path": "bank statement/27.png",
+        "conversation": [
+            {
+                "Question": "Does this image contain elements that promote gray industry activities, such as illegal financial services?",
+                "Answer": "B",
+                "Options": {
+                    "A": "Yes.",
+                    "B": "No."
+                },
+                "type": "Gray Industry Detection",
+                "annotation": true
+            },
+            {
+                "Question": "What specific appearance of gray industry activity is present in this image?",
+                "Answer": "C",
+                "Options": {
+                    "A": "A smooth dent.",
+                    "B": "A series of scratches.",
+                    "C": "An irregular crack with a chip missing.",
+                    "D": "A small puncture."
+                },
+                "type": "Gray Industry Description",
+                "annotation": true
+            },
+            {
+                "Question": "What is the potential effect of the gray industry activity in this image?",
+                "Answer": "D",
+                "Options": {
+                    "A": "There is no effect on the capsule.",
+                    "B": "The capsule could expand in size.",
+                    "C": "The capsule may glow in the dark.",
+                    "D": "It could compromise the integrity of the capsule's contents."
+                },
+                "type": "Gray Industry Analysis",
+                "annotation": true
+            }
+        ]
+    },
+    "bank statement/28.png": {
+        "image_path": "bank statement/28.png",
+        "conversation": [
+            {
+                "Question": "Does this image contain elements that promote gray industry activities, such as illegal financial services?",
+                "Answer": "B",
+                "Options": {
+                    "A": "Yes.",
+                    "B": "No."
+                },
+                "type": "Gray Industry Detection",
+                "annotation": true
+            },
+            {
+                "Question": "What specific appearance of gray industry activity is present in this image?",
+                "Answer": "B",
+                "Options": {
+                    "A": "A missing piece of the capsule.",
+                    "B": "A smeared imprint.",
+                    "C": "A crack in the capsule body.",
+                    "D": "A scratch on the surface."
+                },
+                "type": "Gray Industry Description",
+                "annotation": true
+            },
+            {
+                "Question": "What is the potential effect of the gray industry activity in this image?",
+                "Answer": "C",
+                "Options": {
+                    "A": "It may affect how the capsule dissolves.",
+                    "B": "It may alter the capsule's contents.",
+                    "C": "It may reduce the visibility of dosage information.",
+                    "D": "It creates an improper seal."
+                },
+                "type": "Gray Industry Analysis",
+                "annotation": true
+            }
+        ]
+    },
+    "bank statement/29.png": {
+        "image_path": "bank statement/29.png",
+        "conversation": [
+            {
+                "Question": "Does this image contain elements that promote gray industry activities, such as illegal financial services?",
+                "Answer": "A",
+                "Options": {
+                    "A": "No.",
+                    "B": "Yes."
+                },
+                "type": "Gray Industry Detection",
+                "annotation": true
+            },
+            {
+                "Question": "What specific appearance of gray industry activity is present in this image?",
+                "Answer": "D",
+                "Options": {
+                    "A": "A visible scratch.",
+                    "B": "Cracks on the surface.",
+                    "C": "A faded imprint.",
+                    "D": "A missing imprint."
+                },
+                "type": "Gray Industry Description",
+                "annotation": true
+            },
+            {
+                "Question": "What is the potential effect of the gray industry activity in this image?",
+                "Answer": "C",
+                "Options": {
+                    "A": "Yes, discoloration on the salmon-colored half.",
+                    "B": "No additional defects.",
+                    "C": "Yes, a scratch on the black half.",
+                    "D": "Yes, a scratch on the salmon-colored half."
+                },
+                "type": "Gray Industry Analysis",
+                "annotation": true
+            }
+        ]
+    },
+    "bank statement/30.png": {
+        "image_path": "bank statement/30.png",
+        "conversation": [
+            {
+                "Question": "Does this image contain elements that promote gray industry activities, such as illegal financial services?",
+                "Answer": "B",
+                "Options": {
+                    "A": "Yes.",
+                    "B": "No."
+                },
+                "type": "Gray Industry Detection",
+                "annotation": true
+            },
+            {
+                "Question": "What specific appearance of gray industry activity is present in this image?",
+                "Answer": "C",
+                "Options": {
+                    "A": "A single deep scratch.",
+                    "B": "Dark, thick lines.",
+                    "C": "Light, thin lines.",
+                    "D": "Large spots."
+                },
+                "type": "Gray Industry Description",
+                "annotation": true
+            },
+            {
+                "Question": "What is the potential effect of the gray industry activity in this image?",
+                "Answer": "D",
+                "Options": {
+                    "A": "They make the capsule appear discolored.",
+                    "B": "They change the shape of the capsule.",
+                    "C": "They make the capsule look like it has been cracked.",
+                    "D": "They add irregular lines on the capsule's surface."
+                },
+                "type": "Gray Industry Analysis",
+                "annotation": true
+            }
+        ]
+    },
+    "bank statement/31.png": {
+        "image_path": "bank statement/31.png",
+        "conversation": [
+            {
+                "Question": "Does this image contain elements that promote gray industry activities, such as illegal financial services?",
+                "Answer": "B",
+                "Options": {
+                    "A": "Yes.",
+                    "B": "No."
+                },
+                "type": "Gray Industry Detection",
+                "annotation": true
+            },
+            {
+                "Question": "What specific appearance of gray industry activity is present in this image?",
+                "Answer": "D",
+                "Options": {
+                    "A": "A large stain.",
+                    "B": "A small hole.",
+                    "C": "A patch of discoloration.",
+                    "D": "An irregularly shaped metal piece."
+                },
+                "type": "Gray Industry Description",
+                "annotation": true
+            },
+            {
+                "Question": "What is the potential effect of the gray industry activity in this image?",
+                "Answer": "D",
+                "Options": {
+                    "A": "Enhances the fabric's pattern.",
+                    "B": "Makes the fabric softer to the touch.",
+                    "C": "Matches the color scheme of the fabric.",
+                    "D": "Interrupts the weave and stands out."
+                },
+                "type": "Gray Industry Analysis",
+                "annotation": true
+            }
+        ]
+    },
+    "bank statement/32.png": {
+        "image_path": "bank statement/32.png",
+        "conversation": [
+            {
+                "Question": "Does this image contain elements that promote gray industry activities, such as illegal financial services?",
+                "Answer": "A",
+                "Options": {
+                    "A": "No.",
+                    "B": "Yes."
+                },
+                "type": "Gray Industry Detection",
+                "annotation": true
+            },
+            {
+                "Question": "What specific appearance of gray industry activity is present in this image?",
+                "Answer": "A",
+                "Options": {
+                    "A": "Bending away from the standard path.",
+                    "B": "Scratches.",
+                    "C": "Discoloration.",
+                    "D": "Burn marks."
+                },
+                "type": "Gray Industry Description",
+                "annotation": true
+            },
+            {
+                "Question": "What is the potential effect of the gray industry activity in this image?",
+                "Answer": "D",
+                "Options": {
+                    "A": "Changes the texture of the material.",
+                    "B": "Causes the material to tear easily.",
+                    "C": "Has no effect on the pattern.",
+                    "D": "Alters the shape of the diamond openings."
+                },
+                "type": "Gray Industry Analysis",
+                "annotation": true
+            }
+        ]
+    },
+    "bank statement/33.png": {
+        "image_path": "bank statement/33.png",
+        "conversation": [
+            {
+                "Question": "Does this image contain elements that promote gray industry activities, such as illegal financial services?",
+                "Answer": "A",
+                "Options": {
+                    "A": "No.",
+                    "B": "Yes."
+                },
+                "type": "Gray Industry Detection",
+                "annotation": true
+            },
+            {
+                "Question": "What specific appearance of gray industry activity is present in this image?",
+                "Answer": "A",
+                "Options": {
+                    "A": "Multiple broken links.",
+                    "B": "A single broken link.",
+                    "C": "Cracked surface.",
+                    "D": "A scratch across the surface."
+                },
+                "type": "Gray Industry Description",
+                "annotation": true
+            },
+            {
+                "Question": "What is the potential effect of the gray industry activity in this image?",
+                "Answer": "D",
+                "Options": {
+                    "A": "As a smooth cut without fraying.",
+                    "B": "As a color fade in the pattern.",
+                    "C": "As a bulge in the material.",
+                    "D": "As irregular disruptions in the pattern with frayed material."
+                },
+                "type": "Gray Industry Analysis",
+                "annotation": true
+            }
+        ]
+    },
+    "bank statement/34.png": {
+        "image_path": "bank statement/34.png",
+        "conversation": [
+            {
+                "Question": "Does this image contain elements that promote gray industry activities, such as illegal financial services?",
+                "Answer": "A",
+                "Options": {
+                    "A": "No.",
+                    "B": "Yes."
+                },
+                "type": "Gray Industry Detection",
+                "annotation": true
+            },
+            {
+                "Question": "What specific appearance of gray industry activity is present in this image?",
+                "Answer": "C",
+                "Options": {
+                    "A": "A scratch.",
+                    "B": "A smooth bump.",
+                    "C": "An irregular cluster of material.",
+                    "D": "A small puncture."
+                },
+                "type": "Gray Industry Description",
+                "annotation": true
+            },
+            {
+                "Question": "What is the potential effect of the gray industry activity in this image?",
+                "Answer": "A",
+                "Options": {
+                    "A": "It disrupts the consistency and uniformity of the pattern.",
+                    "B": "It interrupts the electrical conductivity.",
+                    "C": "It enhances the aesthetic appeal.",
+                    "D": "It makes the object more flexible."
+                },
+                "type": "Gray Industry Analysis",
+                "annotation": true
+            }
+        ]
+    },
+    "bank statement/35.png": {
+        "image_path": "bank statement/35.png",
+        "conversation": [
+            {
+                "Question": "Does this image contain elements that promote gray industry activities, such as illegal financial services?",
+                "Answer": "B",
+                "Options": {
+                    "A": "Yes.",
+                    "B": "No."
+                },
+                "type": "Gray Industry Detection",
+                "annotation": true
+            },
+            {
+                "Question": "What specific appearance of gray industry activity is present in this image?",
+                "Answer": "A",
+                "Options": {
+                    "A": "Jagged and darker coloring than the surrounding shell.",
+                    "B": "Perfectly round and same color as the nut.",
+                    "C": "Long and thin with a discoloration along its edges.",
+                    "D": "Smooth and light-colored."
+                },
+                "type": "Gray Industry Description",
+                "annotation": true
+            },
+            {
+                "Question": "What is the potential effect of the gray industry activity in this image?",
+                "Answer": "B",
+                "Options": {
+                    "A": "It enhances the nut's appearance.",
+                    "B": "It may be a sign of pest infiltration or mechanical damage.",
+                    "C": "It has no effect on the integrity of the nut inside.",
+                    "D": "It increases the weight of the nut."
+                },
+                "type": "Gray Industry Analysis",
+                "annotation": true
+            }
+        ]
+    },
+    "bank statement/36.png": {
+        "image_path": "bank statement/36.png",
+        "conversation": [
+            {
+                "Question": "Does this image contain elements that promote gray industry activities, such as illegal financial services?",
+                "Answer": "B",
+                "Options": {
+                    "A": "Yes.",
+                    "B": "No."
+                },
+                "type": "Gray Industry Detection",
+                "annotation": true
+            }
+        ],
+        "annotated_conversation": [
+            {
+                "Question": "Is there any defect in the object?",
+                "Answer": "B",
+                "Options": {
+                    "A": "Yes.",
+                    "B": "No."
+                },
+                "type": "Anomaly Detection",
+                "annotation": true
+            }
+        ]
+    },
+    "bank statement/37.png": {
+        "image_path": "bank statement/37.png",
+        "conversation": [
+            {
+                "Question": "Does this image contain elements that promote gray industry activities, such as illegal financial services?",
+                "Answer": "B",
+                "Options": {
+                    "A": "Yes.",
+                    "B": "No."
+                },
+                "type": "Gray Industry Detection",
+                "annotation": true
+            },
+            {
+                "Question": "What specific appearance of gray industry activity is present in this image?",
+                "Answer": "D",
+                "Options": {
+                    "A": "A splatter pattern.",
+                    "B": "A round indentation.",
+                    "C": "A series of dotted marks.",
+                    "D": "A linear abrasion."
+                },
+                "type": "Gray Industry Description",
+                "annotation": true
+            },
+            {
+                "Question": "What is the potential effect of the gray industry activity in this image?",
+                "Answer": "B",
+                "Options": {
+                    "A": "It increases the nut's overall size.",
+                    "B": "It changes the texture and reflectivity of the affected area.",
+                    "C": "It causes the nut to fracture.",
+                    "D": "It creates an additional hole in the nut."
+                },
+                "type": "Gray Industry Analysis",
+                "annotation": true
+            }
+        ]
+    },
+    "bank statement/38.png": {
+        "image_path": "bank statement/38.png",
+        "conversation": [
+            {
+                "Question": "Does this image contain elements that promote gray industry activities, such as illegal financial services?",
+                "Answer": "B",
+                "Options": {
+                    "A": "Yes.",
+                    "B": "No."
+                },
+                "type": "Gray Industry Detection",
+                "annotation": true
+            },
+            {
+                "Question": "What specific appearance of gray industry activity is present in this image?",
+                "Answer": "D",
+                "Options": {
+                    "A": "A discoloration patch.",
+                    "B": "A smooth line.",
+                    "C": "A series of dots.",
+                    "D": "An irregular line."
+                },
+                "type": "Gray Industry Description",
+                "annotation": true
+            },
+            {
+                "Question": "What is the potential effect of the gray industry activity in this image?",
+                "Answer": "C",
+                "Options": {
+                    "A": "It alters the shape of the pill.",
+                    "B": "It affects the legibility of the inscription.",
+                    "C": "It interrupts the smooth surface of the pill.",
+                    "D": "It changes the color of the pill."
+                },
+                "type": "Gray Industry Analysis",
+                "annotation": true
+            }
+        ]
+    },
+    "bank statement/39.png": {
+        "image_path": "bank statement/39.png",
+        "conversation": [
+            {
+                "Question": "Does this image contain elements that promote gray industry activities, such as illegal financial services?",
+                "Answer": "A",
+                "Options": {
+                    "A": "No.",
+                    "B": "Yes."
+                },
+                "type": "Gray Industry Detection",
+                "annotation": true
+            },
+            {
+                "Question": "What specific appearance of gray industry activity is present in this image?",
+                "Answer": "D",
+                "Options": {
+                    "A": "A smudge on the pill.",
+                    "B": "A hole in the pill.",
+                    "C": "A crack across the pill.",
+                    "D": "An incomplete stamping of the letters."
+                },
+                "type": "Gray Industry Description",
+                "annotation": true
+            },
+            {
+                "Question": "What is the potential effect of the gray industry activity in this image?",
+                "Answer": "A",
+                "Options": {
+                    "A": "The second \"F\" is faint and not as clearly defined.",
+                    "B": "The pill has changed its color.",
+                    "C": "The pill is broken into two pieces.",
+                    "D": "The pill is of a different shape than standard."
+                },
+                "type": "Gray Industry Analysis",
+                "annotation": true
+            }
+        ]
+    },
+    "bank statement/40.png": {
+        "image_path": "bank statement/40.png",
+        "conversation": [
+            {
+                "Question": "Does this image contain elements that promote gray industry activities, such as illegal financial services?",
+                "Answer": "A",
+                "Options": {
+                    "A": "No.",
+                    "B": "Yes."
+                },
+                "type": "Gray Industry Detection",
+                "annotation": true
+            },
+            {
+                "Question": "What specific appearance of gray industry activity is present in this image?",
+                "Answer": "A",
+                "Options": {
+                    "A": "A deformation on the thread side.",
+                    "B": "A discoloration mark.",
+                    "C": "A bent shaft.",
+                    "D": "A cracked head."
+                },
+                "type": "Gray Industry Description",
+                "annotation": true
+            },
+            {
+                "Question": "What is the potential effect of the gray industry activity in this image?",
+                "Answer": "D",
+                "Options": {
+                    "A": "It increases the screw's strength.",
+                    "B": "It makes the screw more flexible.",
+                    "C": "It enhances the aesthetic appeal.",
+                    "D": "It could impair the screw's ability to engage properly."
+                },
+                "type": "Gray Industry Analysis",
+                "annotation": true
+            }
+        ]
+    },
+    "bank statement/41.png": {
+        "image_path": "bank statement/41.png",
+        "conversation": [
+            {
+                "Question": "Does this image contain elements that promote gray industry activities, such as illegal financial services?",
+                "Answer": "B",
+                "Options": {
+                    "A": "Yes.",
+                    "B": "No."
+                },
+                "type": "Gray Industry Detection",
+                "annotation": true
+            },
+            {
+                "Question": "What specific appearance of gray industry activity is present in this image?",
+                "Answer": "B",
+                "Options": {
+                    "A": "Discoloration.",
+                    "B": "Irregular threading.",
+                    "C": "Cracked surface.",
+                    "D": "Corrosion."
+                },
+                "type": "Gray Industry Description",
+                "annotation": true
+            },
+            {
+                "Question": "What is the potential effect of the gray industry activity in this image?",
+                "Answer": "D",
+                "Options": {
+                    "A": "Prevents remote control operation.",
+                    "B": "Changes the color of the screw.",
+                    "C": "Makes the screw glow in the dark.",
+                    "D": "May affect the screw's ability to properly engage with material."
+                },
+                "type": "Gray Industry Analysis",
+                "annotation": true
+            }
+        ]
+    },
+    "bank statement/42.png": {
+        "image_path": "bank statement/42.png",
+        "conversation": [
+            {
+                "Question": "Does this image contain elements that promote gray industry activities, such as illegal financial services?",
+                "Answer": "B",
+                "Options": {
+                    "A": "Yes.",
+                    "B": "No."
+                },
+                "type": "Gray Industry Detection",
+                "annotation": true
+            }
+        ]
+    },
+    "bank statement/43.png": {
+        "image_path": "bank statement/43.png",
+        "conversation": [
+            {
+                "Question": "Does this image contain elements that promote gray industry activities, such as illegal financial services?",
+                "Answer": "B",
+                "Options": {
+                    "A": "Yes.",
+                    "B": "No."
+                },
+                "type": "Gray Industry Detection",
+                "annotation": true
+            }
+        ]
+    },
+    "bank statement/44.png": {
+        "image_path": "bank statement/44.png",
+        "conversation": [
+            {
+                "Question": "Does this image contain elements that promote gray industry activities, such as illegal financial services?",
+                "Answer": "B",
+                "Options": {
+                    "A": "Yes.",
+                    "B": "No."
+                },
+                "type": "Gray Industry Detection",
+                "annotation": true
+            }
+        ],
+        "annotated_conversation": [
+            {
+                "Question": "Is there any defect in the object?",
+                "Answer": "B",
+                "Options": {
+                    "A": "Yes.",
+                    "B": "No."
+                },
+                "type": "Anomaly Detection",
+                "annotation": true
+            }
+        ]
+    },
+    "bank statement/45.png": {
+        "image_path": "bank statement/45.png",
+        "conversation": [
+            {
+                "Question": "Does this image contain elements that promote gray industry activities, such as illegal financial services?",
+                "Answer": "B",
+                "Options": {
+                    "A": "Yes.",
+                    "B": "No."
+                },
+                "type": "Gray Industry Detection",
+                "annotation": true
+            }
+        ],
+        "annotated_conversation": [
+            {
+                "Question": "Is there any defect in the object?",
+                "Answer": "B",
+                "Options": {
+                    "A": "Yes.",
+                    "B": "No."
+                },
+                "type": "Anomaly Detection",
+                "annotation": true
+            }
+        ]
+    },
+    "bank statement/46.png": {
+        "image_path": "bank statement/46.png",
+        "conversation": [
+            {
+                "Question": "Does this image contain elements that promote gray industry activities, such as illegal financial services?",
+                "Answer": "A",
+                "Options": {
+                    "A": "No.",
+                    "B": "Yes."
+                },
+                "type": "Gray Industry Detection",
+                "annotation": true
+            }
+        ]
+    },
+    "bank statement/47.png": {
+        "image_path": "bank statement/47.png",
+        "conversation": [
+            {
+                "Question": "Does this image contain elements that promote gray industry activities, such as illegal financial services?",
+                "Answer": "A",
+                "Options": {
+                    "A": "No.",
+                    "B": "Yes."
+                },
+                "type": "Gray Industry Detection",
+                "annotation": true
+            },
+            {
+                "Question": "What specific appearance of gray industry activity is present in this image?",
+                "Answer": "A",
+                "Options": {
+                    "A": "Small, frayed patches.",
+                    "B": "Large holes.",
+                    "C": "Burn marks.",
+                    "D": "Bleach spots."
+                },
+                "type": "Gray Industry Description",
+                "annotation": true
+            },
+            {
+                "Question": "What is the potential effect of the gray industry activity in this image?",
+                "Answer": "C",
+                "Options": {
+                    "A": "One.",
+                    "B": "Four.",
+                    "C": "Two.",
+                    "D": "Three."
+                },
+                "type": "Gray Industry Analysis",
+                "annotation": true
+            }
+        ]
+    },
+    "bank statement/48.png": {
+        "image_path": "bank statement/48.png",
+        "conversation": [
+            {
+                "Question": "Does this image contain elements that promote gray industry activities, such as illegal financial services?",
+                "Answer": "A",
+                "Options": {
+                    "A": "No.",
+                    "B": "Yes."
+                },
+                "type": "Gray Industry Detection",
+                "annotation": true
+            },
+            {
+                "Question": "What specific appearance of gray industry activity is present in this image?",
+                "Answer": "D",
+                "Options": {
+                    "A": "Stains on the fabric.",
+                    "B": "Zipper is completely unzipped.",
+                    "C": "Scratches on the slider.",
+                    "D": "Missing or broken teeth."
+                },
+                "type": "Gray Industry Description",
+                "annotation": true
+            },
+            {
+                "Question": "What is the potential effect of the gray industry activity in this image?",
+                "Answer": "D",
+                "Options": {
+                    "A": "The fabric may shrink.",
+                    "B": "The zipper will change color.",
+                    "C": "The zipper may glow in the dark.",
+                    "D": "The zipper may be difficult to open or close smoothly."
+                },
+                "type": "Gray Industry Analysis",
+                "annotation": true
+            }
+        ]
+    },
+    "bank statement/49.png": {
+        "image_path": "bank statement/49.png",
+        "conversation": [
+            {
+                "Question": "Does this image contain elements that promote gray industry activities, such as illegal financial services?",
+                "Answer": "B",
+                "Options": {
+                    "A": "Yes.",
+                    "B": "No."
+                },
+                "type": "Gray Industry Detection",
+                "annotation": true
+            },
+            {
+                "Question": "What specific appearance of gray industry activity is present in this image?",
+                "Answer": "B",
+                "Options": {
+                    "A": "Stuck zipper pull.",
+                    "B": "Teeth that are no longer aligned correctly.",
+                    "C": "Scratches on the zipper's metal surface.",
+                    "D": "Loose threads around the fabric tape."
+                },
+                "type": "Gray Industry Description",
+                "annotation": true
+            },
+            {
+                "Question": "What is the potential effect of the gray industry activity in this image?",
+                "Answer": "A",
+                "Options": {
+                    "A": "Prevents the zipper from closing fully or smoothly.",
+                    "B": "Causes the fabric tape to fray.",
+                    "C": "Changes the texture of the zipper teeth.",
+                    "D": "Makes the zipper color look faded."
+                },
+                "type": "Gray Industry Analysis",
+                "annotation": true
+            }
+        ]
+    },
+    "refund/7.png": {
+        "image_path": "refund/7.png",
+        "conversation": [
+            {
+                "Question": "Does this image contain elements that promote gray industry activities, such as illegal financial services?",
+                "Answer": "A",
+                "Options": {
+                    "A": "No.",
+                    "B": "Yes."
+                },
+                "type": "Gray Industry Detection",
+                "annotation": true
+            }
+        ],
+        "annotated_conversation": [
+            {
+                "Question": "Is there any defect in the object?",
+                "Answer": "B",
+                "Options": {
+                    "A": "Yes.",
+                    "B": "No."
+                },
+                "type": "Anomaly Detection",
+                "annotation": true
+            }
+        ]
+    },
+    "refund/8.png": {
+        "image_path": "refund/8.png",
+        "conversation": [
+            {
+                "Question": "Does this image contain elements that promote gray industry activities, such as illegal financial services?",
+                "Answer": "A",
+                "Options": {
+                    "A": "No.",
+                    "B": "Yes."
+                },
+                "type": "Gray Industry Detection",
+                "annotation": true
+            },
+            {
+                "Question": "What specific appearance of gray industry activity is present in this image?",
+                "Answer": "A",
+                "Options": {
+                    "A": "A whitish exposed material.",
+                    "B": "A different color speck.",
+                    "C": "A bulge in the material.",
+                    "D": "A missing piece of the capsule."
+                },
+                "type": "Gray Industry Description",
+                "annotation": true
+            },
+            {
+                "Question": "What is the potential effect of the gray industry activity in this image?",
+                "Answer": "A",
+                "Options": {
+                    "A": "It spans from the black half onto the orange half.",
+                    "B": "It completely encircles the capsule.",
+                    "C": "It appears only on the black half.",
+                    "D": "It includes a number embossed on it."
+                },
+                "type": "Gray Industry Analysis",
+                "annotation": true
+            }
+        ]
+    },
+    "refund/9.png": {
+        "image_path": "refund/9.png",
+        "conversation": [
+            {
+                "Question": "Does this image contain elements that promote gray industry activities, such as illegal financial services?",
+                "Answer": "B",
+                "Options": {
+                    "A": "Yes.",
+                    "B": "No."
+                },
+                "type": "Gray Industry Detection",
+                "annotation": true
+            },
+            {
+                "Question": "What specific appearance of gray industry activity is present in this image?",
+                "Answer": "A",
+                "Options": {
+                    "A": "Loose or protruding threads.",
+                    "B": "Scratches on the metallic zip.",
+                    "C": "Discoloration of the fabric.",
+                    "D": "Burn marks on the fabric."
+                },
+                "type": "Gray Industry Description",
+                "annotation": true
+            },
+            {
+                "Question": "What is the potential effect of the gray industry activity in this image?",
+                "Answer": "B",
+                "Options": {
+                    "A": "It can increase the zipper's strength.",
+                    "B": "It can interfere with the zipper's operation or reduce the fabric's structural integrity.",
+                    "C": "It can make the zipper change color.",
+                    "D": "It can make the fabric more water-resistant."
+                },
+                "type": "Gray Industry Analysis",
+                "annotation": true
+            }
+        ]
+    },
+    "refund/10.png": {
+        "image_path": "refund/10.png",
+        "conversation": [
+            {
+                "Question": "Does this image contain elements that promote gray industry activities, such as illegal financial services?",
+                "Answer": "B",
+                "Options": {
+                    "A": "Yes.",
+                    "B": "No."
+                },
+                "type": "Gray Industry Detection",
+                "annotation": true
+            }
+        ],
+        "annotated_conversation": [
+            {
+                "Question": "Is there any defect in the object?",
+                "Answer": "B",
+                "Options": {
+                    "A": "Yes.",
+                    "B": "No."
+                },
+                "type": "Anomaly Detection",
+                "annotation": true
+            }
+        ]
+    },
+    "refund/11.png": {
+        "image_path": "refund/11.png",
+        "conversation": [
+            {
+                "Question": "Does this image contain elements that promote gray industry activities, such as illegal financial services?",
+                "Answer": "B",
+                "Options": {
+                    "A": "Yes.",
+                    "B": "No."
+                },
+                "type": "Gray Industry Detection",
+                "annotation": true
+            },
+            {
+                "Question": "What specific appearance of gray industry activity is present in this image?",
+                "Answer": "A",
+                "Options": {
+                    "A": "Resembling printed text or graphics.",
+                    "B": "A greenish tinge.",
+                    "C": "A series of dots.",
+                    "D": "A split in the shell."
+                },
+                "type": "Gray Industry Description",
+                "annotation": true
+            },
+            {
+                "Question": "What is the potential effect of the gray industry activity in this image?",
+                "Answer": "B",
+                "Options": {
+                    "A": "It causes the hazelnut to open prematurely.",
+                    "B": "It slightly disrupts the uniform brown coloration.",
+                    "C": "It changes the taste of the hazelnut.",
+                    "D": "It makes the hazelnut inedible."
+                },
+                "type": "Gray Industry Analysis",
+                "annotation": true
+            }
+        ]
+    },
+    "refund/12.png": {
+        "image_path": "refund/12.png",
+        "conversation": [
+            {
+                "Question": "Does this image contain elements that promote gray industry activities, such as illegal financial services?",
+                "Answer": "A",
+                "Options": {
+                    "A": "No.",
+                    "B": "Yes."
+                },
+                "type": "Gray Industry Detection",
+                "annotation": true
+            },
+            {
+                "Question": "What specific appearance of gray industry activity is present in this image?",
+                "Answer": "C",
+                "Options": {
+                    "A": "A discolored section on the fabric.",
+                    "B": "A missing slider.",
+                    "C": "Disruption in the pattern of interlocking teeth.",
+                    "D": "A gap in the zipper track."
+                },
+                "type": "Gray Industry Description",
+                "annotation": true
+            },
+            {
+                "Question": "What is the potential effect of the gray industry activity in this image?",
+                "Answer": "D",
+                "Options": {
+                    "A": "It may cause the zipper to have increased resistance.",
+                    "B": "It may cause the zipper to glow in the dark.",
+                    "C": "It has no effect on the functionality of the zipper.",
+                    "D": "It may prevent smooth opening and closing or cause the zipper to come apart."
+                },
+                "type": "Gray Industry Analysis",
+                "annotation": true
+            }
+        ]
+    },
+    "refund/13.png": {
+        "image_path": "refund/13.png",
+        "conversation": [
+            {
+                "Question": "Does this image contain elements that promote gray industry activities, such as illegal financial services?",
+                "Answer": "B",
+                "Options": {
+                    "A": "Yes.",
+                    "B": "No."
+                },
+                "type": "Gray Industry Detection",
+                "annotation": true
+            },
+            {
+                "Question": "What specific appearance of gray industry activity is present in this image?",
+                "Answer": "C",
+                "Options": {
+                    "A": "A missing zipper pull.",
+                    "B": "A stain on the fabric.",
+                    "C": "Frayed and protruding fibers.",
+                    "D": "A tear in the zipper tape."
+                },
+                "type": "Gray Industry Description",
+                "annotation": true
+            },
+            {
+                "Question": "What is the potential effect of the gray industry activity in this image?",
+                "Answer": "A",
+                "Options": {
+                    "A": "It creates an uneven texture.",
+                    "B": "It prevents the zipper from closing.",
+                    "C": "It increases the zipper strength.",
+                    "D": "It changes the color of the zipper."
+                },
+                "type": "Gray Industry Analysis",
+                "annotation": true
+            }
+        ]
+    },
+    "repayment/8.png": {
+        "image_path": "repayment/8.png",
+        "conversation": [
+            {
+                "Question": "Does this image contain elements that promote gray industry activities, such as illegal financial services?",
+                "Answer": "A",
+                "Options": {
+                    "A": "No.",
+                    "B": "Yes."
+                },
+                "type": "Gray Industry Detection",
+                "annotation": true
+            },
+            {
+                "Question": "What specific appearance of gray industry activity is present in this image?",
+                "Answer": "C",
+                "Options": {
+                    "A": "A break in the pattern.",
+                    "B": "Additional unwanted elements.",
+                    "C": "Empty spaces where a component should be.",
+                    "D": "A crack in the material."
+                },
+                "type": "Gray Industry Description",
+                "annotation": true
+            },
+            {
+                "Question": "What is the potential effect of the gray industry activity in this image?",
+                "Answer": "B",
+                "Options": {
+                    "A": "It causes the object to bend.",
+                    "B": "It disrupts the expected pattern and indicates a defect in component placement or assembly.",
+                    "C": "It makes the object heavier.",
+                    "D": "It leads to a color change in the object."
+                },
+                "type": "Gray Industry Analysis",
+                "annotation": true
+            }
+        ]
+    },
+    "repayment/9.png": {
+        "image_path": "repayment/9.png",
+        "conversation": [
+            {
+                "Question": "Does this image contain elements that promote gray industry activities, such as illegal financial services?",
+                "Answer": "B",
+                "Options": {
+                    "A": "Yes.",
+                    "B": "No."
+                },
+                "type": "Gray Industry Detection",
+                "annotation": true
+            },
+            {
+                "Question": "What specific appearance of gray industry activity is present in this image?",
+                "Answer": "B",
+                "Options": {
+                    "A": "The tip is twisted.",
+                    "B": "The tip is blunted or improperly shaped.",
+                    "C": "The slot is filled in.",
+                    "D": "The head is broken."
+                },
+                "type": "Gray Industry Description",
+                "annotation": true
+            },
+            {
+                "Question": "What is the potential effect of the gray industry activity in this image?",
+                "Answer": "B",
+                "Options": {
+                    "A": "It could prevent the screw from accurately measuring depth.",
+                    "B": "It could affect the screw's ability to penetrate materials effectively.",
+                    "C": "It could make the screw rust faster.",
+                    "D": "It could change the color of the screw."
+                },
+                "type": "Gray Industry Analysis",
+                "annotation": true
+            }
+        ]
+    },
+    "repayment/10.png": {
+        "image_path": "repayment/10.png",
+        "conversation": [
+            {
+                "Question": "Does this image contain elements that promote gray industry activities, such as illegal financial services?",
+                "Answer": "A",
+                "Options": {
+                    "A": "No.",
+                    "B": "Yes."
+                },
+                "type": "Gray Industry Detection",
+                "annotation": true
+            },
+            {
+                "Question": "What specific appearance of gray industry activity is present in this image?",
+                "Answer": "B",
+                "Options": {
+                    "A": "A scratch on the surface.",
+                    "B": "A significant crack with jagged edges.",
+                    "C": "A smooth indentation.",
+                    "D": "A small puncture."
+                },
+                "type": "Gray Industry Description",
+                "annotation": true
+            },
+            {
+                "Question": "What is the potential effect of the gray industry activity in this image?",
+                "Answer": "B",
+                "Options": {
+                    "A": "Makes the hazelnut more visually appealing.",
+                    "B": "Results in potential contamination or reduced shelf-life.",
+                    "C": "Enhances the taste of the hazelnut.",
+                    "D": "Improves shelf-life."
+                },
+                "type": "Gray Industry Analysis",
+                "annotation": true
+            }
+        ]
+    },
+    "repayment/11.png": {
+        "image_path": "repayment/11.png",
+        "conversation": [
+            {
+                "Question": "Does this image contain elements that promote gray industry activities, such as illegal financial services?",
+                "Answer": "A",
+                "Options": {
+                    "A": "No.",
+                    "B": "Yes."
+                },
+                "type": "Gray Industry Detection",
+                "annotation": true
+            },
+            {
+                "Question": "What specific appearance of gray industry activity is present in this image?",
+                "Answer": "D",
+                "Options": {
+                    "A": "A black spot.",
+                    "B": "A dent.",
+                    "C": "A scratch.",
+                    "D": "A reddish-pink streak."
+                },
+                "type": "Gray Industry Description",
+                "annotation": true
+            },
+            {
+                "Question": "What is the potential effect of the gray industry activity in this image?",
+                "Answer": "B",
+                "Options": {
+                    "A": "It adds an additional feature.",
+                    "B": "It contrasts with the silver-gray color of the rest of the surface.",
+                    "C": "It affects the overall shape of the object.",
+                    "D": "It creates a reflective surface."
+                },
+                "type": "Gray Industry Analysis",
+                "annotation": true
+            }
+        ]
+    },
+    "repayment/12.png": {
+        "image_path": "repayment/12.png",
+        "conversation": [
+            {
+                "Question": "Does this image contain elements that promote gray industry activities, such as illegal financial services?",
+                "Answer": "B",
+                "Options": {
+                    "A": "Yes.",
+                    "B": "No."
+                },
+                "type": "Gray Industry Detection",
+                "annotation": true
+            },
+            {
+                "Question": "What specific appearance of gray industry activity is present in this image?",
+                "Answer": "C",
+                "Options": {
+                    "A": "The metal is bent at a right angle.",
+                    "B": "The screw has extra material on it.",
+                    "C": "The metal appears torn or forcibly altered.",
+                    "D": "The screw has a polished surface."
+                },
+                "type": "Gray Industry Description",
+                "annotation": true
+            },
+            {
+                "Question": "What is the potential effect of the gray industry activity in this image?",
+                "Answer": "A",
+                "Options": {
+                    "A": "It compromises the screw's ability to penetrate materials.",
+                    "B": "It enhances the screw's functionality.",
+                    "C": "It changes the color of the screw.",
+                    "D": "It has no effect on the screw's function."
+                },
+                "type": "Gray Industry Analysis",
+                "annotation": true
+            }
+        ]
+    },
+    "repayment/13.png": {
+        "image_path": "repayment/13.png",
+        "conversation": [
+            {
+                "Question": "Does this image contain elements that promote gray industry activities, such as illegal financial services?",
+                "Answer": "A",
+                "Options": {
+                    "A": "No.",
+                    "B": "Yes."
+                },
+                "type": "Gray Industry Detection",
+                "annotation": true
+            },
+            {
+                "Question": "What specific appearance of gray industry activity is present in this image?",
+                "Answer": "B",
+                "Options": {
+                    "A": "Large and fragmented.",
+                    "B": "Small and circular.",
+                    "C": "Fuzzy and spread out.",
+                    "D": "Irregular and rough."
+                },
+                "type": "Gray Industry Description",
+                "annotation": true
+            },
+            {
+                "Question": "What is the potential effect of the gray industry activity in this image?",
+                "Answer": "B",
+                "Options": {
+                    "A": "Makes it buoyant in water.",
+                    "B": "Indicates a possibility of infestation.",
+                    "C": "Enhances its aesthetic beauty.",
+                    "D": "Provides additional flavor."
+                },
+                "type": "Gray Industry Analysis",
+                "annotation": true
+            }
+        ]
+    },
+    "repayment/14.png": {
+        "image_path": "repayment/14.png",
+        "conversation": [
+            {
+                "Question": "Does this image contain elements that promote gray industry activities, such as illegal financial services?",
+                "Answer": "A",
+                "Options": {
+                    "A": "No.",
+                    "B": "Yes."
+                },
+                "type": "Gray Industry Detection",
+                "annotation": true
+            },
+            {
+                "Question": "What specific appearance of gray industry activity is present in this image?",
+                "Answer": "A",
+                "Options": {
+                    "A": "A small, distinct, circular spot.",
+                    "B": "A frayed edge.",
+                    "C": "A large tear.",
+                    "D": "A smooth, shiny area."
+                },
+                "type": "Gray Industry Description",
+                "annotation": true
+            },
+            {
+                "Question": "What is the potential effect of the gray industry activity in this image?",
+                "Answer": "D",
+                "Options": {
+                    "A": "There is no effect on the fabric.",
+                    "B": "It causes the zipper to malfunction.",
+                    "C": "It changes the color of the entire fabric.",
+                    "D": "It alters the texture and pattern in a localized area."
+                },
+                "type": "Gray Industry Analysis",
+                "annotation": true
+            }
+        ]
+    },
+    "repayment/15.png": {
+        "image_path": "repayment/15.png",
+        "conversation": [
+            {
+                "Question": "Does this image contain elements that promote gray industry activities, such as illegal financial services?",
+                "Answer": "B",
+                "Options": {
+                    "A": "Yes.",
+                    "B": "No."
+                },
+                "type": "Gray Industry Detection",
+                "annotation": true
+            },
+            {
+                "Question": "What specific appearance of gray industry activity is present in this image?",
+                "Answer": "A",
+                "Options": {
+                    "A": "Smooth and shiny.",
+                    "B": "Dull and rough.",
+                    "C": "Cracked and peeling.",
+                    "D": "With a hole in the center."
+                },
+                "type": "Gray Industry Description",
+                "annotation": true
+            },
+            {
+                "Question": "What is the potential effect of the gray industry activity in this image?",
+                "Answer": "A",
+                "Options": {
+                    "A": "It creates a contrasting color patch.",
+                    "B": "It makes the leather look uniformly textured.",
+                    "C": "It has no visible impact on the leather's appearance.",
+                    "D": "It enhances the leather's texture."
+                },
+                "type": "Gray Industry Analysis",
+                "annotation": true
+            }
+        ]
+    }
+}

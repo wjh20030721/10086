@@ -1,0 +1,40 @@
+/home/wujianhao/data/Echo-main/Echo-main/Dataset/test/loan/bank statement/0.webp
+/home/wujianhao/data/Echo-main/Echo-main/Dataset/test/loan/bank statement/1.webp
+/home/wujianhao/data/Echo-main/Echo-main/Dataset/test/loan/bank statement/10.webp
+/home/wujianhao/data/Echo-main/Echo-main/Dataset/test/loan/bank statement/11.webp
+/home/wujianhao/data/Echo-main/Echo-main/Dataset/test/loan/bank statement/12.webp
+/home/wujianhao/data/Echo-main/Echo-main/Dataset/test/loan/bank statement/13.webp
+/home/wujianhao/data/Echo-main/Echo-main/Dataset/test/loan/bank statement/14.webp
+/home/wujianhao/data/Echo-main/Echo-main/Dataset/test/loan/bank statement/15.webp
+/home/wujianhao/data/Echo-main/Echo-main/Dataset/test/loan/bank statement/16.webp
+/home/wujianhao/data/Echo-main/Echo-main/Dataset/test/loan/bank statement/17.webp
+/home/wujianhao/data/Echo-main/Echo-main/Dataset/test/loan/bank statement/18.webp
+/home/wujianhao/data/Echo-main/Echo-main/Dataset/test/loan/bank statement/19.webp
+/home/wujianhao/data/Echo-main/Echo-main/Dataset/test/loan/bank statement/2.webp
+/home/wujianhao/data/Echo-main/Echo-main/Dataset/test/loan/bank statement/20.webp
+/home/wujianhao/data/Echo-main/Echo-main/Dataset/test/loan/bank statement/21.webp
+/home/wujianhao/data/Echo-main/Echo-main/Dataset/test/loan/bank statement/22.webp
+/home/wujianhao/data/Echo-main/Echo-main/Dataset/test/loan/bank statement/23.webp
+/home/wujianhao/data/Echo-main/Echo-main/Dataset/test/loan/bank statement/24.webp
+/home/wujianhao/data/Echo-main/Echo-main/Dataset/test/loan/bank statement/3.webp
+/home/wujianhao/data/Echo-main/Echo-main/Dataset/test/loan/bank statement/4.webp
+/home/wujianhao/data/Echo-main/Echo-main/Dataset/test/loan/bank statement/5.webp
+/home/wujianhao/data/Echo-main/Echo-main/Dataset/test/loan/bank statement/6.webp
+/home/wujianhao/data/Echo-main/Echo-main/Dataset/test/loan/bank statement/7.webp
+/home/wujianhao/data/Echo-main/Echo-main/Dataset/test/loan/bank statement/8.webp
+/home/wujianhao/data/Echo-main/Echo-main/Dataset/test/loan/bank statement/9.webp
+/home/wujianhao/data/Echo-main/Echo-main/Dataset/test/loan/refund/0.webp
+/home/wujianhao/data/Echo-main/Echo-main/Dataset/test/loan/refund/1.webp
+/home/wujianhao/data/Echo-main/Echo-main/Dataset/test/loan/refund/2.webp
+/home/wujianhao/data/Echo-main/Echo-main/Dataset/test/loan/refund/3.webp
+/home/wujianhao/data/Echo-main/Echo-main/Dataset/test/loan/refund/4.webp
+/home/wujianhao/data/Echo-main/Echo-main/Dataset/test/loan/refund/5.webp
+/home/wujianhao/data/Echo-main/Echo-main/Dataset/test/loan/refund/6.webp
+/home/wujianhao/data/Echo-main/Echo-main/Dataset/test/loan/repayment/0.webp
+/home/wujianhao/data/Echo-main/Echo-main/Dataset/test/loan/repayment/1.webp
+/home/wujianhao/data/Echo-main/Echo-main/Dataset/test/loan/repayment/2.webp
+/home/wujianhao/data/Echo-main/Echo-main/Dataset/test/loan/repayment/3.webp
+/home/wujianhao/data/Echo-main/Echo-main/Dataset/test/loan/repayment/4.webp
+/home/wujianhao/data/Echo-main/Echo-main/Dataset/test/loan/repayment/5.webp
+/home/wujianhao/data/Echo-main/Echo-main/Dataset/test/loan/repayment/6.webp
+/home/wujianhao/data/Echo-main/Echo-main/Dataset/test/loan/repayment/7.webp

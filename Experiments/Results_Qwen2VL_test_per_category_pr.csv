@@ -1,0 +1,53 @@
+Category,Type,Class,Support,Precision,Recall,F1,Avg
+bank statement,Gray Industry Detection,A,25,1.0,0.4,0.5714,per-class
+bank statement,Gray Industry Detection,ALL,25,1.0,0.4,0.5714,macro
+bank statement,Gray Industry Detection,ALL,25,1.0,0.4,0.5714,micro
+bank statement,Gray Industry Description,B,2,1.0,1.0,1.0,per-class
+bank statement,Gray Industry Description,C,18,1.0,0.9444,0.9714,per-class
+bank statement,Gray Industry Description,D,5,0.8333,1.0,0.9091,per-class
+bank statement,Gray Industry Description,ALL,25,0.9444,0.9815,0.9602,macro
+bank statement,Gray Industry Description,ALL,25,0.96,0.96,0.96,micro
+bank statement,Gray Industry Analysis,B,17,1.0,1.0,1.0,per-class
+bank statement,Gray Industry Analysis,C,4,1.0,1.0,1.0,per-class
+bank statement,Gray Industry Analysis,D,4,1.0,1.0,1.0,per-class
+bank statement,Gray Industry Analysis,ALL,25,1.0,1.0,1.0,macro
+bank statement,Gray Industry Analysis,ALL,25,1.0,1.0,1.0,micro
+refund,Gray Industry Detection,A,7,1.0,0.4286,0.6,per-class
+refund,Gray Industry Detection,ALL,7,1.0,0.4286,0.6,macro
+refund,Gray Industry Detection,ALL,7,1.0,0.4286,0.6,micro
+refund,Gray Industry Description,B,3,1.0,1.0,1.0,per-class
+refund,Gray Industry Description,C,2,1.0,1.0,1.0,per-class
+refund,Gray Industry Description,D,2,1.0,1.0,1.0,per-class
+refund,Gray Industry Description,ALL,7,1.0,1.0,1.0,macro
+refund,Gray Industry Description,ALL,7,1.0,1.0,1.0,micro
+refund,Gray Industry Analysis,B,1,1.0,1.0,1.0,per-class
+refund,Gray Industry Analysis,C,3,1.0,1.0,1.0,per-class
+refund,Gray Industry Analysis,D,3,1.0,1.0,1.0,per-class
+refund,Gray Industry Analysis,ALL,7,1.0,1.0,1.0,macro
+refund,Gray Industry Analysis,ALL,7,1.0,1.0,1.0,micro
+repayment,Gray Industry Detection,A,8,1.0,0.375,0.5455,per-class
+repayment,Gray Industry Detection,ALL,8,1.0,0.375,0.5455,macro
+repayment,Gray Industry Detection,ALL,8,1.0,0.375,0.5455,micro
+repayment,Gray Industry Description,B,3,1.0,1.0,1.0,per-class
+repayment,Gray Industry Description,C,2,1.0,1.0,1.0,per-class
+repayment,Gray Industry Description,D,3,1.0,1.0,1.0,per-class
+repayment,Gray Industry Description,ALL,8,1.0,1.0,1.0,macro
+repayment,Gray Industry Description,ALL,8,1.0,1.0,1.0,micro
+repayment,Gray Industry Analysis,B,3,1.0,1.0,1.0,per-class
+repayment,Gray Industry Analysis,C,3,1.0,1.0,1.0,per-class
+repayment,Gray Industry Analysis,D,2,1.0,1.0,1.0,per-class
+repayment,Gray Industry Analysis,ALL,8,1.0,1.0,1.0,macro
+repayment,Gray Industry Analysis,ALL,8,1.0,1.0,1.0,micro
+ALL,Gray Industry Detection,A,40,1.0,0.4,0.5714,per-class
+ALL,Gray Industry Detection,ALL,40,1.0,0.4,0.5714,macro
+ALL,Gray Industry Detection,ALL,40,1.0,0.4,0.5714,micro
+ALL,Gray Industry Description,B,8,1.0,1.0,1.0,per-class
+ALL,Gray Industry Description,C,22,1.0,0.9545,0.9767,per-class
+ALL,Gray Industry Description,D,10,0.9091,1.0,0.9524,per-class
+ALL,Gray Industry Description,ALL,40,0.9697,0.9848,0.9764,macro
+ALL,Gray Industry Description,ALL,40,0.975,0.975,0.975,micro
+ALL,Gray Industry Analysis,B,21,1.0,1.0,1.0,per-class
+ALL,Gray Industry Analysis,C,10,1.0,1.0,1.0,per-class
+ALL,Gray Industry Analysis,D,9,1.0,1.0,1.0,per-class
+ALL,Gray Industry Analysis,ALL,40,1.0,1.0,1.0,macro
+ALL,Gray Industry Analysis,ALL,40,1.0,1.0,1.0,micro
