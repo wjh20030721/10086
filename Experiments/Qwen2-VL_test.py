@@ -4,6 +4,8 @@ import csv
 import random
 import logging
 from collections import defaultdict
+from tqdm import tqdm
+import time
 
 import torch
 import faiss
@@ -13,7 +15,7 @@ from sklearn.metrics import accuracy_score
 import clip
 from transformers import AutoProcessor, Qwen2VLForConditionalGeneration
 from qwen_vl_utils import process_vision_info
-from expert_generator_test import expert_generator_test  # 确保 expert_generator_test.py 中没有 "from expert_generator_test import ..."
+
 
 # ==========================
 # Configurations
@@ -105,7 +107,7 @@ def evaluate_model():
     with open(CONFIG["annotation_file"], 'r') as f:
         raw_data = json.load(f)
 
-    base_dir = "../Dataset/test/loan"  #在test中是test
+    base_dir = "../Dataset/VisDrone"  
     filtered_data = {}
     for img_path, value in raw_data.items():
         full_path = os.path.join(base_dir, img_path)

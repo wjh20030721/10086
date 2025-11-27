@@ -8,8 +8,24 @@ def expert_generator_test(image2, question_type, question, options_text, domain_
     else:
         descriptions_text = domain_knowledge
 
-    # Gray Industry Detection
-    if question_type == "Gray Industry Detection":
+    if not isinstance(question_type, str):
+        raise ValueError(f"Question type must be a string, got {type(question_type).__name__}.")
+
+    canonical_map = {
+        "object frequency detection": "Object Frequency Detection",
+        "traffic scene description": "Traffic Scene Description",
+        "traffic analysis": "Traffic Analysis",
+    }
+    valid_types_display = "', '".join(canonical_map.values())
+    normalized_key = question_type.strip().lower()
+    if normalized_key not in canonical_map:
+        raise ValueError(
+            f"Invalid question type. Expected one of: '{valid_types_display}'. Received: '{question_type}'."
+        )
+    question_type = canonical_map[normalized_key]
+
+    # Object Frequency Detection
+    if question_type == "Object Frequency Detection":
         messages = [
             {
                 "role": "user",
@@ -18,23 +34,23 @@ def expert_generator_test(image2, question_type, question, options_text, domain_
                     {
                         "type": "text",
                         "text": (
-                            "Please analyze the provided image to determine if it contains elements that promote gray industry activities.\n"
-                            "Domain Knowledge: Use the following information to assist your analysis:\n"
+                            "Please analyze the provided traffic image to judge the level of congestion shown.\n"
+                            "Domain Knowledge: Use the following information to support your reasoning:\n"
                             f"{descriptions_text}\n"
                             "Steps to follow:\n"
-                            "1. Carefully examine the image for any suspicious elements, such as unusual text, design, or content.\n"
-                            "2. Compare the observed elements with the provided domain knowledge.\n"
-                            "3. Decide whether the image contains elements promoting gray industry activities.\n"
-                            "Question: {question}\n"
-                            "Options:\n{options_text}\n"
+                            "1. Carefully observe the density and flow of vehicles, pedestrians, and traffic controls in the scene.\n"
+                            "2. Evaluate indicators of congestion such as stop-and-go traffic, queues at intersections, or unused road capacity using the domain knowledge when helpful.\n"
+                            "3. Decide which option best matches the congestion level depicted.\n"
+                            f"Question: {question}\n"
+                            f"Options:\n{options_text}\n"
                             "Respond with the letter of the correct option only (e.g., 'A' or 'B')."
                         )
                     },
                 ],
             }
         ]
-    # Gray Industry Description
-    elif question_type == "Gray Industry Description":
+    # Traffic Scene Description
+    elif question_type == "Traffic Scene Description":
         messages = [
             {
                 "role": "user",
@@ -43,21 +59,21 @@ def expert_generator_test(image2, question_type, question, options_text, domain_
                     {
                         "type": "text",
                         "text": (
-                            "Following is the domain knowledge which contains descriptions of potential grey industry characteristics:\n"
+                            "The following domain knowledge summarises relevant traffic scene elements:\n"
                             f"Domain Knowledge:\n{descriptions_text}\n"
                             "Please analyze the provided image to answer the question.\n"
                             "Let's approach this systematically:\n"
-                            "1. **Analyze** the image for key elements like text, user interface design, and requested permissions.\n"
-                            "2. **Identify** any features that suggest it might be a grey industry application, based on the domain knowledge or general understanding.\n"
-                            "3. **Decide** which option best describes the characteristics of the application shown in the image.\n"
+                            "1. **Survey** the scene for key contextual cues such as road layout, traffic signals, weather conditions, and actor interactions.\n"
+                            "2. **Identify** notable objects or events (e.g., vehicles stopped at lights, pedestrians crossing, maintenance work) leveraging the domain knowledge when necessary.\n"
+                            "3. **Select** the option that best summarizes the overall traffic scene.\n"
                             f"Question: {question}\nOptions:\n{options_text}\nPlease respond with the letter of the correct option only."
                         )
                     },
                 ],
             }
         ]
-    # Gray Industry Analysis
-    elif question_type == "Gray Industry Analysis":
+    # Traffic Analysis
+    elif question_type == "Traffic Analysis":
         messages = [
             {
                 "role": "user",
@@ -66,11 +82,11 @@ def expert_generator_test(image2, question_type, question, options_text, domain_
                     {
                         "type": "text",
                         "text": (
-                            "Please analyze the provided image to answer the question based on its content.\n"
+                            "Please analyze the provided image to answer the traffic-focused question based on observable evidence.\n"
                             "Let's approach this systematically:\n"
-                            "1. **Examine** the image for any suspicious elements, such as unusual permissions or misleading UI design.\n"
-                            "2. **Evaluate** the potential risks associated with these elements, considering user privacy and data security.\n"
-                            "3. **Conclude** which option best describes the risks or characteristics of the application shown in the image.\n"
+                            "1. **Inspect** the scene for traffic bottlenecks, incidents, rule violations, or other operational factors.\n"
+                            "2. **Interpret** the potential causes or implications of these observations with reference to the domain knowledge.\n"
+                            "3. **Conclude** which option best reflects the traffic condition or outcome described in the question.\n"
                             f"Question: {question}\nOptions:\n{options_text}\nPlease respond with the letter of the correct option only."
                         )
                     },
@@ -78,6 +94,6 @@ def expert_generator_test(image2, question_type, question, options_text, domain_
             }
         ]
     else:
-        raise ValueError("Invalid question type. Expected one of: 'Gray Industry Detection', 'Gray Industry Description', 'Gray Industry Analysis'.")
+        raise ValueError(f"Invalid question type. Expected one of: '{valid_types_display}'.")
 
     return messages

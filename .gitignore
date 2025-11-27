@@ -10,7 +10,7 @@ Dataset/
 
 # Python cache and environment
 __pycache__/
-*.py[cod]
+
 *.so
 venv/
 env/
