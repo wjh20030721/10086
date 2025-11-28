@@ -21,7 +21,7 @@ from transformers import AutoProcessor, Qwen3VLForConditionalGeneration, AutoMod
 from qwen_vl_utils import process_vision_info
 
 
-import expert_generator_VisDrone 
+from expert_generator_VisDrone import expert_generator_VisDrone
 
 # ==========================
 # Configurations

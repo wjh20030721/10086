@@ -21,7 +21,7 @@ from transformers import AutoProcessor, Qwen3VLForConditionalGeneration, AutoMod
 from qwen_vl_utils import process_vision_info
 
 
-import expert_generator_MVtec 
+from expert_generator_MVTec import expert_generator_MVTec 
 
 # ==========================
 # Configurations
@@ -31,8 +31,8 @@ CONFIG = {
     "device": "cuda",
     "clip_model": "ViT-B/16",
     "qwen_path": "Qwen/Qwen3-VL-8B-Instruct", 
-    "annotation_file": "../Annotation/MVtec.json",
-    "domain_knowledge": "../Knowledge Guide/domain_knowledge_MVtec.json",
+    "annotation_file": "../Annotation/DS-MVTec.json",
+    "domain_knowledge": "../Knowledge Guide/domain_knowledge_MVTec.json",
     "results_csv": "Results_Qwen3VL.csv",
     "max_image_edge": 1280  
 }
@@ -142,7 +142,7 @@ def evaluate_model():
     with open(CONFIG["annotation_file"], 'r') as f:
         raw_data = json.load(f)
 
-    base_dir = "../Dataset/MVtec" 
+    base_dir = "../Dataset/MMAD" 
     filtered_data = {}
     for img_path, value in raw_data.items():
         full_path = os.path.join(base_dir, img_path)
@@ -194,7 +194,7 @@ def evaluate_model():
                 q_type = conv['type']
 
                 options_text = "\n".join(f"{k}: {v}" for k, v in options.items())
-                messages = expert_generator_MVtec(query_img, q_type, question, options_text, domain_knowledge)
+                messages = expert_generator_MVTec(query_img, q_type, question, options_text, domain_knowledge)
 
                 # Qwen3-VL 预处理
                 text = processor.apply_chat_template(messages, tokenize=False, add_generation_prompt=True)

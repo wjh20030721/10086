@@ -1,4 +1,4 @@
-def expert_generator_test(image2, question_type, question, options_text, domain_knowledge):
+def expert_generator_VisDrone(image2, question_type, question, options_text, domain_knowledge):
 
     # options_description = ', '.join([option.split(': ')[1] for option in options_text.split('\n')])
 

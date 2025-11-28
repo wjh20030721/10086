@@ -1,6 +1,4 @@
-def expert_generator(
-    image1, image2, question_type, question, options_text, domain_knowledge
-):
+def expert_generator_MVTec(image2, question_type, question, options_text, domain_knowledge):
 
     # options_description = ', '.join([option.split(': ')[1] for option in options_text.split('\n')])
 
@@ -19,7 +17,7 @@ def expert_generator(
             {
                 "role": "user",
                 "content": [
-                    {"type": "image", "image": image1},
+                    #{"type": "image", "image": image1},
                     {"type": "image", "image": image2},  # Only the query image
                     {
                         "type": "text",
@@ -33,7 +31,7 @@ def expert_generator(
             {
                 "role": "user",
                 "content": [
-                    {"type": "image", "image": image1},
+                    #{"type": "image", "image": image1},
                     {"type": "image", "image": image2},
                     {
                         "type": "text",
@@ -66,7 +64,7 @@ def expert_generator(
             {
                 "role": "user",
                 "content": [
-                    {"type": "image", "image": image1},
+                    #{"type": "image", "image": image1},
                     {"type": "image", "image": image2},
                     {
                         "type": "text",
@@ -85,7 +83,7 @@ def expert_generator(
             {
                 "role": "user",
                 "content": [
-                    {"type": "image", "image": image1},
+                    #{"type": "image", "image": image1},
                     {"type": "image", "image": image2},
                     {
                         "type": "text",
