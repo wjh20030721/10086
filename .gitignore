@@ -1,6 +1,8 @@
 # Ignore dataset directory (do not upload datasets)
 Dataset/
 
+Memory/
+
 # Ignore compressed archives and large bundles
 *.tar.gz
 *.zip
